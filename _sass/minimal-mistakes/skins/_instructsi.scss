@@ -1,0 +1,25 @@
+/* ==========================================================================
+   Instruct.SI skin
+   ========================================================================== */
+
+/* Colors */
+$background-color           : #ffffff !default;
+$text-color                 : #000000 !default;
+$link-color                 : #00a9e0 !default;
+$link-color-hover           : mix(#000000, $link-color, 25%) !default;
+$link-color-visited         : mix(#ffffff, $link-color, 25%) !default;
+a:link {
+   text-decoration: none;
+ }
+ 
+ a:visited {
+   text-decoration: none;
+ }
+ 
+ a:hover {
+   text-decoration: underline;
+ }
+ 
+ a:active {
+   text-decoration: underline;
+ }
