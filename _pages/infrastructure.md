@@ -41,6 +41,7 @@ Researchers at four NIC departments work in the field of of life sciences and em
 - **SAXS**: in-house SAXS (SAXSpoint 5.0 System Anton Paar with Primux 100 micro X-ray source (Cu))
 - **protein preparation**: equipment for the recombinant protein production in bacteria, insect, yeast and mammalian cells, cell culture rooms/equipment, and chromatographic systems for protein purification
 - **protein analysis**: biochemical and biophysical characterization of biological samples (CD spectrometer, SPR, ITC, MST, various optical microscopes, plate readers)
+- **single molecule imaging**: [LUMICKS C-Trap EDGE 350](https://www.ki.si/en/departments/d12-department-of-synthetic-biology-and-immunology/equipment/translate-to-english-lumicks-c-trap/) fluorescence TIRF microscope coupled to an optical tweezer and a microfluidics system
 
 NIC also has strong expertise in theoretical (computational) structural biology. NIC has state-the-art expertise in protein design and theoretical-computational biology.
 
