@@ -80,6 +80,7 @@ Some equipment listed above is part of the UL FKKT Centre for Research Infrastru
 UL BF hosts equipment for analytical approaches based on **surface plasmon resonance** (SPR) with major expertise in protein–lipid and protein–protein interactions:
 - [Infrastructural Centre for Molecular Interactions Analysis](https://www.bf.uni-lj.si/en/research/infrastructure-centres/103/infrastructural-centre-for-molecular-interactions-analysis)
 - [Department of Biology](https://www.bf.uni-lj.si/en/research/research-equipment/?iddepartment=7&idkatedra=&idtype=)
+- [Chair of Biochemistry and Food Chemistry](https://www.bf.uni-lj.si/en/research/research-equipment/?iddepartment=8&idkatedra=41&idtype=)
 
 ### [Faculty of Medicine (UL MF)](https://www.mf.uni-lj.si/)
 
