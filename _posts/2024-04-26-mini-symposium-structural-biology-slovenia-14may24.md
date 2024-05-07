@@ -14,4 +14,4 @@ The event will take place on the afternoon of **14th May 2024** in the Great Lec
 
 To facilitate organization, we kindly ask all participants to register using a [registration form](https://forms.gle/NJdorN6BaxkD3nPu7).
 
-More info: [NIC website](https://www.ki.si/en/ms2024/).
+Symposium abstracts are available [here](https://www.ki.si/fileadmin/user_upload/datoteke-D11/Dogodki_in_mini_simpozij/MS2024/Minisymposium_14May2024-Abstracts.pdf).
