@@ -56,7 +56,7 @@ The management board of the Instruct.SI consortium is composed of one main repre
 | CIPKeBiP 	| Prof. Dr. **Nataša Poklar Ulrih**	| Assist. Prof. Dr. **Livija Tušar** 	|
 | IJS 	| Prof. Dr. **Dušan Turk** 	| Prof. Dr. **Igor Križaj** 	|
 | KI/NIC 	| Assoc. Prof. Dr. **Marjetka Podobnik** 	| Dr. **Ajasja Ljubetič** 	|
-| NIB 	| Prof. Dr. **Maruša Pompe Novak** 	| Dr. **Magda Tušek Žnidarič** 	|
+| NIB 	| Prof. Dr. **Maruša Pompe Novak** 	| |
 | UL 	| Assoc. Prof. Dr. **Miha Pavšič** 	| Acad. Prof. Dr. **Robert Zorec** 	|
 | UM 	| Assoc. Prof. Dr. **Andraž Stožer** 	| Prof. Dr. **Zoran Ren** 	|
 | UNG 	| Prof. Dr. **Ario de Marco** 	| Dr. **Matteo De March** 	|
