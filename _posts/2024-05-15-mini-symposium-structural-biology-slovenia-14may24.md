@@ -29,32 +29,32 @@ gallery:
     title: "Jiří Nováček"
   - url: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-06.jpg
     image_path: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-06.jpg
-    alt: "Martina Lenarčič Živković"
-    title: "Martina Lenarčič Živković"
+    alt: "Martina Lenarčič Živković (National Institute of Chemistry)"
+    title: "Martina Lenarčič Živković (National Institute of Chemistry)"
   - url: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-07.jpg
     image_path: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-07.jpg
-    alt: "Jošt Hočevar"
-    title: "Jošt Hočevar"
+    alt: "Jošt Hočevar (University of Ljubljana, Faculty of Chemistry and Chemical Technology)"
+    title: "Jošt Hočevar (University of Ljubljana, Faculty of Chemistry and Chemical Technology)"
   - url: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-08.jpg
     image_path: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-08.jpg
-    alt: "Neža Koritnik"
-    title: "Neža Koritnik"
+    alt: "Neža Koritnik (National Institute of Chemistry)"
+    title: "Neža Koritnik (National Institute of Chemistry)"
   - url: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-09.jpg
     image_path: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-09.jpg
-    alt: "Ajasja Ljubetič"
-    title: "Ajasja Ljubetič"
+    alt: "Ajasja Ljubetič (National Institute of Chemistry)"
+    title: "Ajasja Ljubetič (National Institute of Chemistry)"
   - url: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-10.jpg
     image_path: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-10.jpg
-    alt: "Sara Vidmar"
-    title: "Sara Vidmar"
+    alt: "Sara Vidmar (National Institute of Chemistry)"
+    title: "Sara Vidmar (National Institute of Chemistry)"
   - url: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-11.jpg
     image_path: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-11.jpg
-    alt: "Gašper Šolinc"
-    title: "Gašper Šolinc"
+    alt: "Gašper Šolinc (National Institute of Chemistry)"
+    title: "Gašper Šolinc (National Institute of Chemistry)"
   - url: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-12.jpg
     image_path: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-12.jpg
-    alt: "Nataša Lindič"
-    title: "Nataša Lindič"
+    alt: "Nataša Lindič (Jožef Stefan Institute)"
+    title: "Nataša Lindič (Jožef Stefan Institute)"
   - url: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-13.jpg
     image_path: /assets/images/posts/2024-05-15-mini-symposium-structural-biology-slovenia-14may24-13.jpg
     alt: "Claudia Alén Amaro, Miha Pavšič, Marjetka Podobnik, Harald Schwalbe"
