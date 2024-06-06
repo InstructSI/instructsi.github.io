@@ -1,5 +1,5 @@
 ---
-title: "Early-Career Reseacrhers and Instruct-ERIC Internships call 2024"
+title: "Early-Career Reseachers and Instruct-ERIC Internships call 2024"
 categories:
   - Calls
 tags:
