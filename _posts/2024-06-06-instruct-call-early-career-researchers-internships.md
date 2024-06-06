@@ -1,5 +1,5 @@
 ---
-title: "Early-Career Reseachers and Instruct-ERIC Internships call 2024"
+title: "Early-Career Researchers and Instruct-ERIC Internships call 2024"
 categories:
   - Calls
 tags:
@@ -10,7 +10,7 @@ tags:
 
 Instruct-ERIC has published two calls – one is for early-career reseacrhers, the other for PhD students and early-career postdocs. Please, see below for details.
 
-## Early-Career Reseacrhers
+## Early-Career Researchers
 
 Instruct has opened a call for [Early-Career Researchers (ECRs)](https://instruct-eric.org/submit-call/instruct-access-for-early-career-researchers-ecrs), providing enhanced funding for access to advanced structural biology services across Europe.
  
