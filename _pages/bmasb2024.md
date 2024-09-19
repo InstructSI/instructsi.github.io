@@ -29,4 +29,8 @@ Basic info:
 
 More info is available in the 1st announcement (published on 2024-09-17) ([English]({{ site.url }}{{ site.baseurl }}/assets/docs/2024-bmasb2024-1st_announcement-2024-09-17.pdf) and [Slovene]({{ site.url }}{{ site.baseurl }}/assets/docs/2024-bmasb2024-1_obvestilo-2024-09-17.pdf) version).
 
+**Please note:** Follow the communication channels (this website, mailing list of Slovenian Biochemical Society, and X social network) for updates and further announcements.
+{: .notice--warning}
+
+
 **Workshop is organised by the [Instruct.SI consortium](https://instruct-eric.si).**

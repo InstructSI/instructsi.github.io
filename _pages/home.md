@@ -64,7 +64,7 @@ gallery:
     title: "University of Maribor"
 ---
 
-**Info Notice:** Instruct.SI ir organizing a three-day workshop Basics of [**Methodological Approaches in Structural Biology**](/bmasb2024/) aimed at students and researchers who would like to obtain or refresh basic knowledge on high-resolution structural biology approaches: macromolecular crystallography (MX), nuclear magnetic resonance (NMR), and cryogenic electron microscopy (cryo-EM).
+**Info Notice:** Instruct.SI is organizing a three-day workshop [**Basics of Methodological Approaches in Structural Biology**](/bmasb2024/), aimed at students and researchers who would like to obtain or refresh basic knowledge on high-resolution structural biology approaches: macromolecular crystallography (MX), nuclear magnetic resonance (NMR), and cryogenic electron microscopy (cryo-EM). Date: 5–7 November 2024.
 {: .notice--info}
 
 {% include feature_row %}
