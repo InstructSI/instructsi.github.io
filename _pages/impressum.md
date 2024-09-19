@@ -1,6 +1,7 @@
 ---
 permalink: /impressum/
 title: "Impressum"
+layout: single
 classes: wide
 author_profile: false
 last_modified_at: 2024-03-11
