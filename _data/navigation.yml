@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "BMASB2024"
+    url: /bmasb2024/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
