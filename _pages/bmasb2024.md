@@ -45,6 +45,8 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 
 ## Programme
 
+![BMASB2024 Programme at a glance]({{ site.url }}{{ site.baseurl }}/assets/images/base/bmasb2024-programme_at_a_glance.png)
+
 #### Day 1 (Tue, Nov 5): Macromolecular Crystallography (MX)
 
 |Time       |Topic        |
