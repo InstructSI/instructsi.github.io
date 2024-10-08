@@ -45,7 +45,7 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 
 ## Programme
 
-#### Day 1 (Tue, Nov 7): Macromolecular Crystallography (MX)
+#### Day 1 (Tue, Nov 5): Macromolecular Crystallography (MX)
 
 |Time       |Topic        |
 |----------:|-------------|
@@ -64,7 +64,7 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 |15.35–15.55|*walk to IJS*|
 |15.55–16.55|**Tour: Crystallization robot and chamber, in-house X-ray machine (IJS)**|
 
-#### Day 2 (Wed, Nov 8): Nuclear Magnetic Resonance (NMR)
+#### Day 2 (Wed, Nov 6): Nuclear Magnetic Resonance (NMR)
 
 |Time       |Topic        |
 |----------:|-------------|
@@ -83,7 +83,7 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 |15.20–16.50|**Hands-on: NMR spectra recording demonstration and evaluating ligand-protein/DNA/RNA interactions**|
 |16.50–16.55|*survey*|
 
-#### Day 3 (Thu, Nov 9): Cryo-Electron Microscopy (Cryo-EM)
+#### Day 3 (Thu, Nov 7): Cryo-Electron Microscopy (Cryo-EM)
 
 |Time       |Topic        |
 |----------:|-------------|
