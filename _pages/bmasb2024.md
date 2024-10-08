@@ -99,7 +99,8 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 |17.30–17.35|*survey*|
 |17.35–     |*get-together*|
 
-Note: To follow the hands-on sections, **please bring your own laptop**, mouse is recommended. Wireless internet connection will be provided. {: .notice--success}
+Note: To follow the hands-on sections, **please bring your own laptop**, mouse is recommended. Wireless internet connection will be provided.
+{: .notice--success}
 
 ## Organisers
 
