@@ -40,8 +40,7 @@ More info is available below and in the official announcements:
 
 For any further information etc. please do not hesitate to contact us via [e-mail](mailto:instruct.si@ki.si).
 
-**Please note:** Follow the communication channels (this website, mailing list of Slovenian Biochemical Society, and X social network) for any updates and further announcements.
-{: .notice--warning}
+**Please note:** Follow the communication channels (this website, mailing list of Slovenian Biochemical Society, and X social network) for any updates and further announcements. {: .notice--warning}
 
 ## Programme
 
@@ -59,7 +58,7 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 |13.00–13.45|**Crystallization, crystal harvesting, and preparation for data collection**|
 |13.45–14.15|**Diffraction data collection and processing**|
 |14.15–14.30|*coffee break*|
-|14.30–15.30|**Hands-on: Introduction to structure model building and refinement**|
+|14.30–15.30|**Hands-on: Introduction to structure model building and refinement** (see note below)|
 |15.30–15.35|*survey*|
 |15.35–15.55|*walk to IJS*|
 |15.55–16.55|**Tour: Crystallization robot and chamber, in-house X-ray machine (IJS)**|
@@ -80,7 +79,7 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 |14.05–14.35|**NMR’s time to shine: dynamics and conformational changes of molecules**|
 |14.35–15.05|**High-resolution structures of biomolecules constructed from NMR derived structural restraints**|
 |15.05–15.20|*coffee break*|
-|15.20–16.50|**Hands-on: NMR spectra recording demonstration and evaluating ligand-protein/DNA/RNA interactions**|
+|15.20–16.50|**Hands-on: NMR spectra recording demonstration and evaluating ligand-protein/DNA/RNA interactions** (see note below)|
 |16.50–16.55|*survey*|
 
 #### Day 3 (Thu, Nov 7): Cryo-Electron Microscopy (Cryo-EM)
@@ -92,13 +91,15 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 |10.05–10.30|*coffee break*|
 |10.30–12.00|**Cryo-electron microscopy**|
 |12.00–13.00|*lunch break*|
-|13.00–14.30|**Tour and hands-on: sample preparation laboratories, vitrification laboratory, cryo-electron microscope**|
+|13.00–14.30|**Tour and hands-on: sample preparation laboratories, vitrification laboratory, cryo-electron microscope** (see note below)|
 |14.30–15.00|*coffee break*|
 |15.00–16.15|**Data analysis, structure determination I**|
 |16.15–16.25|*break*|
 |16.25–17.30|**Data analysis, structure determination II**|
 |17.30–17.35|*survey*|
 |17.35–     |*get-together*|
+
+Note: To follow the hands-on sections, **please bring your own laptop**, mouse is recommended. Wireless internet connection will be provided. {: .notice--success}
 
 ## Organisers
 
