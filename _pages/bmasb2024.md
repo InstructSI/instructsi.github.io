@@ -32,6 +32,7 @@ More info is available below and in the official announcements:
 
 - **There is no fee!** All costs are covered by the Instruct.SI consortium.
 - **Registration** is obligatory. You can register for all three main topics/days or just for one or two days.
+  - **Deadline for registration is Thursday, November 24th, 2024!**
 - The official language of the workshop will be **English**.
 - There will be **free coffee/tea** and **free lunches**, plus a **get-together** on the last day of the workshop.
 
