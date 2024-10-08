@@ -40,7 +40,8 @@ More info is available below and in the official announcements:
 
 For any further information etc. please do not hesitate to contact us via [e-mail](mailto:instruct.si@ki.si).
 
-**Please note:** Follow the communication channels (this website, mailing list of Slovenian Biochemical Society, and X social network) for any updates and further announcements. {: .notice--warning}
+**Please note:** Follow the communication channels (this website, mailing list of Slovenian Biochemical Society, and X social network) for any updates and further announcements.
+{: .notice--warning}
 
 ## Programme
 
