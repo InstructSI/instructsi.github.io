@@ -5,7 +5,7 @@ excerpt: "Introductory workshop into the world of high-resolution methodological
 layout: splash
 classes: wide
 author_profile: false
-toc: true
+toc: false
 last_modified_at: 2024-10-08
 toc_sticky: true
 hidden: true

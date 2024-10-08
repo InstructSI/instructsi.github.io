@@ -63,6 +63,8 @@ The management board of the Instruct.SI consortium is composed of one main repre
 
 President of the management board: Assoc. Prof. Dr. **Miha Pavšič**
 
+Coordinator of the consortium: Assoc. Prof. Dr. **Marjetka Podobnik**
+
 ### Management board tasks
 
 The tasks of the Instruct.SI management board include:
