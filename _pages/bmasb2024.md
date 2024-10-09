@@ -30,17 +30,17 @@ More info is available below and in the official announcements:
 
 ## Basic info and registration
 
-- **There is no fee!** All costs are covered by the Instruct.SI consortium.
 - **Registration** is obligatory. You can register for all three main topics/days or just for one or two days.
   - **Deadline for registration is Thursday, November 24th, 2024!**
-- The official language of the workshop will be **English**.
+- **There is no fee!** All costs are covered by the Instruct.SI consortium.
 - There will be **free coffee/tea** and **free lunches**, plus a **get-together** on the last day of the workshop.
+- The official language of the workshop will be **English**.
 
 [REGISTRATION FORM](https://forms.gle/ixqsPmgCFPjVd1pE7){: .btn .btn--danger}
 
 For any further information etc. please do not hesitate to contact us via [e-mail](mailto:instruct.si@ki.si).
 
-**Please note:** Follow the communication channels (this website, mailing list of Slovenian Biochemical Society, and X social network) for any updates and further announcements.
+**Please note:** Follow the communication channels (**this website (most up-to-date)**, plus mailing list of Slovenian Biochemical Society, X social network profile of National Institute of Chemistry, and others) for any updates and further announcements.
 {: .notice--warning}
 
 ## Programme
