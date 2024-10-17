@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Thyroid hormone cycle: biochemistry, structure, physiology, autoimmunity"
+title: "Workshop: Thyroid hormone cycle: biochemistry, structure, physiology, autoimmunity (Oct 23,2024)"
 categories:
   - Events
 tags:
@@ -17,7 +17,7 @@ Programme includes lectures:
 
 The workshop will conclude with a discussion »What can we do together«.
 
-*There is still room for short (15 min) talks!**
+**There is still room for short (15 min) talks!**
 
 Contact: Prof. Dušan Turk ([Dusan.Turk@ijs.si](mailto:Dusan.Turk@ijs.si))
 
