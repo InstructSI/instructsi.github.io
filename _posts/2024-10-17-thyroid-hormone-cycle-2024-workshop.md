@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Thyroid hormone cycle: biochemistry, structure, physiology, autoimmunity (Oct 23,2024)"
+title: "Workshop: Thyroid hormone cycle: biochemistry, structure, physiology, autoimmunity (Oct 23, 2024)"
 categories:
   - Events
 tags:
