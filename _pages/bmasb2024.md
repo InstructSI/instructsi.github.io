@@ -51,56 +51,56 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 
 |Time       |Topic        |
 |----------:|-------------|
-|  9.00–9.15|***Welcome & general info***|
-|  9.15–9.45|Dušan Turk (IJS, CIPKeBiP): **Introduction to macromolecular crystallography**|
-| 9.45–10.15|Ajda Taler-Verčič (UL FKKT): **Target selection and construct design**|
-|10.15–10.45|*coffee break*|
-|10.45–11.30|Nataša Lindič (IJS), Miha Pavšič (UL FKKT), Ajda Taler-Verčič (UL FKKT), Aleksandra Usenik (IJS): **Protein production and purification**|
-|11.30–12.00|Aleksandra Usenik (IJS): **Characterization of macromolecular samples**|
-|12.00–13.00|*lunch break*|
-|13.00–13.45|Nataša Lindič (IJS): **Crystallization, crystal harvesting, and preparation for data collection**|
-|13.45–14.15|Matej Novak (IJS): **Diffraction data collection and processing**|
-|14.15–14.30|*coffee break*|
-|14.30–15.30|Miha Pavšič (UL FKKT): **Hands-on: Introduction to structure model building and refinement** (see note below)|
-|15.30–15.35|*survey*|
-|15.35–15.55|*walk to IJS*|
-|15.55–16.55|**Tour: Crystallization robot and chamber, in-house X-ray machine (IJS)**|
+| 9.00|***Welcome & general info***|
+| 9.15|Dušan Turk (IJS, CIPKeBiP): **Introduction to macromolecular crystallography**|
+| 9.45|Ajda Taler-Verčič (UL FKKT): **Target selection and construct design**|
+|10.15|*coffee break*|
+|10.45|Nataša Lindič (IJS), Miha Pavšič (UL FKKT), Ajda Taler-Verčič (UL FKKT), Aleksandra Usenik (IJS): **Protein production and purification**|
+|11.30|Aleksandra Usenik (IJS): **Characterization of macromolecular samples**|
+|12.00|*lunch break*|
+|13.00|Nataša Lindič (IJS): **Crystallization, crystal harvesting, and preparation for data collection**|
+|13.45|Matej Novak (IJS): **Diffraction data collection and processing**|
+|14.15|*coffee break*|
+|14.30|Miha Pavšič (UL FKKT): **Hands-on: Introduction to structure model building and refinement** (see note below)|
+|15.30|*survey*|
+|15.35|*walk to IJS*|
+|15.55|**Tour: Crystallization robot and chamber, in-house X-ray machine (IJS)**|
 
 #### Day 2 (Wed, Nov 6): Nuclear Magnetic Resonance (NMR)
 
 |Time       |Topic        |
 |----------:|-------------|
-|  9.00–9.15|***Welcome & general info***|
-|  9.15–9.45|Vojč Kocman (KI): **The basics of NMR**|
-| 9.45–10.15|Anita Kotar (KI): **Introduction to 1D and 2D NMR spectra**|
-|10.15–10.30|*coffee break*|
-|10.30–11.00|Maja Marušič (KI): **Production of DNA/RNA and protein molecules suitable for NMR structural characterization**|
-|11.00–11.40|Anita Kotar (KI): **Strategies for assigment of DNA/RNA NMR spectra**|
-|11.40–12.20|Matic Kovačič (KI): **Strategies for assignment of protein NMR spectra**|
-|12.20–13.20|*lunch break*|
-|13.20–14.05|**Tour: NMR spectrometers and laboratories (KI)**|
-|14.05–14.35|Maja Marušič (KI): **NMR’s time to shine: dynamics and conformational changes of molecules**|
-|14.35–15.05|Vojč Kocman (KI): **High-resolution structures of biomolecules constructed from NMR derived structural restraints**|
-|15.05–15.20|*coffee break*|
-|15.20–16.50|Vojč Kocman, Anita Kotar, Maja Marušič + others: **Hands-on: NMR spectra recording demonstration and evaluating ligand-protein/DNA/RNA interactions** (see note below)|
-|16.50–16.55|*survey*|
+| 9.00|***Welcome & general info***|
+| 9.15|Vojč Kocman (KI): **The basics of NMR**|
+| 9.45|Anita Kotar (KI): **Introduction to 1D and 2D NMR spectra**|
+|10.15|*coffee break*|
+|10.30|Maja Marušič (KI): **Production of DNA/RNA and protein molecules suitable for NMR structural characterization**|
+|11.00|Anita Kotar (KI): **Strategies for assigment of DNA/RNA NMR spectra**|
+|11.40|Matic Kovačič (KI): **Strategies for assignment of protein NMR spectra**|
+|12.20|*lunch break*|
+|13.20|**Tour: NMR spectrometers and laboratories (KI)**|
+|14.05|Maja Marušič (KI): **NMR’s time to shine: dynamics and conformational changes of molecules**|
+|14.35|Vojč Kocman (KI): **High-resolution structures of biomolecules constructed from NMR derived structural restraints**|
+|15.05|*coffee break*|
+|15.20|Vojč Kocman, Anita Kotar, Maja Marušič + others: **Hands-on: NMR spectra recording demonstration and evaluating ligand-protein/DNA/RNA interactions** (see note below)|
+|16.50|*survey*|
 
 #### Day 3 (Thu, Nov 7): Cryo-Electron Microscopy (Cryo-EM)
 
 |Time       |Topic        |
 |----------:|-------------|
-|  9.00–9.15|***Welcome & general info***|
-| 9.15–10.05|Nada Žnidaršič (UL BF): **Transmission electron microscopy – a look into structure from molecules to tissues**|
-|10.05–10.30|*coffee break*|
-|10.30–12.00|Matic Kisovec (KI): **Cryo-electron microscopy**|
-|12.00–13.00|*lunch break*|
-|13.00–14.30|Matic Kisovec, Gašper Šolinc, Neža Koritnik (KI): **Tour and hands-on: sample preparation laboratories, vitrification laboratory, cryo-electron microscope** (see note below)|
-|14.30–15.00|*coffee break*|
-|15.00–16.15|Gašper Šolinc (KI): **Data analysis, structure determination I**|
-|16.15–16.25|*break*|
-|16.25–17.30|Neža Koritnik, Andreja Kežar, Primož Bembič (KI): **Data analysis, structure determination II**|
-|17.30–17.35|*survey*|
-|17.35–     |*get-together*|
+| 9.00|***Welcome & general info***|
+| 9.15|Nada Žnidaršič (UL BF): **Transmission electron microscopy – a look into structure from molecules to tissues**|
+|10.05|*coffee break*|
+|10.30|Matic Kisovec (KI): **Cryo-electron microscopy**|
+|12.00|*lunch break*|
+|13.00|Matic Kisovec, Gašper Šolinc, Neža Koritnik (KI): **Tour and hands-on: sample preparation laboratories, vitrification laboratory, cryo-electron microscope** (see note below)|
+|14.30|*coffee break*|
+|15.00|Gašper Šolinc (KI): **Data analysis, structure determination I**|
+|16.15|*break*|
+|16.25|Neža Koritnik, Andreja Kežar, Primož Bembič (KI): **Data analysis, structure determination II**|
+|17.30|*survey*|
+|17.35|*get-together*|
 
 Note: To follow the hands-on sections, **please bring your own laptop**, mouse is recommended. Wireless internet connection will be provided.
 {: .notice--success}
