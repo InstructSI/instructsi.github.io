@@ -51,7 +51,7 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 
 |Time       |Topic        |
 |----------:|-------------|
-| 9.00|***Welcome & general info***|
+| 9.00|Marjetka Podobnik (KI), Miha Pavič (UL FKKT): ***Welcome & general info***|
 | 9.15|Dušan Turk (IJS, CIPKeBiP): **Introduction to macromolecular crystallography**|
 | 9.45|Ajda Taler-Verčič (UL FKKT): **Target selection and construct design**|
 |10.15|*coffee break*|
@@ -70,7 +70,7 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 
 |Time       |Topic        |
 |----------:|-------------|
-| 9.00|***Welcome & general info***|
+| 9.00|Marjetka Podobnik (KI), Miha Pavič (UL FKKT): ***Welcome & general info***|
 | 9.15|Vojč Kocman (KI): **The basics of NMR**|
 | 9.45|Anita Kotar (KI): **Introduction to 1D and 2D NMR spectra**|
 |10.15|*coffee break*|
@@ -89,7 +89,7 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 
 |Time       |Topic        |
 |----------:|-------------|
-| 9.00|***Welcome & general info***|
+| 9.00|Marjetka Podobnik (KI), Miha Pavič (UL FKKT): ***Welcome & general info***|
 | 9.15|Nada Žnidaršič (UL BF): **Transmission electron microscopy – a look into structure from molecules to tissues**|
 |10.05|*coffee break*|
 |10.30|Matic Kisovec (KI): **Cryo-electron microscopy**|
