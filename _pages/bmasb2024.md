@@ -44,24 +44,7 @@ More info is available below and in the official announcements:
 
 **Scientific committee**: Marjetka Podobnik (KI), Miha Pavšič (UL FKKT)
 
-**Speakers** (alphabetical list, abbreviations used in affiliations are listed [here](#organisers)):
-- Primož Bembič (KI)
-- Andreja Kežar (KI)
-- Matic Kisovec (KI)
-- Vojč Kocman (KI)
-- Neža Koritnik (KI)
-- Anita Kotar (KI)
-- Matic Kovačič (KI)
-- Nataša Lindič (IJS)
-- Maja Marušič (KI)
-- Matej Novak (IJS)
-- Miha Pavšič (UL FKKT)
-- Marjetka Podobnik (KI)
-- Gašper Šolinc (KI)
-- Ajda Taler-Verčič (UL FKKT)
-- Dušan Turk (IJS, CIPKeBiP)
-- Aleksandra Usenik (IJS)
-- Nada Žnidaršič (UL BF)
+**Speakers** (alphabetical list, abbreviations used in affiliations are listed [here](#organisers)): Primož Bembič (KI), Andreja Kežar (KI), Matic Kisovec (KI), Vojč Kocman (KI), Neža Koritnik (KI), Anita Kotar (KI), Matic Kovačič (KI), Nataša Lindič (IJS), Maja Marušič (KI), Matej Novak (IJS), Miha Pavšič (UL FKKT), Marjetka Podobnik (KI), Gašper Šolinc (KI), Ajda Taler-Verčič (UL FKKT), Dušan Turk (IJS, CIPKeBiP), Aleksandra Usenik (IJS), Nada Žnidaršič (UL BF)
 
 For any further information etc. please do not hesitate to contact us via [e-mail](mailto:instruct.si@ki.si).
 
