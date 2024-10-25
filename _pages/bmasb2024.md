@@ -40,6 +40,29 @@ More info is available below and in the official announcements:
 
 [REGISTRATIONS CLOSED ON 2024-10-25](#basic-info-and-registration){: .btn .btn--primary}
 
+**Organising committee**:  Marjetka Podobnik (KI), Miha Pavšič (UL FKKT), Maja Jamnik (KI), Matic Kisovec (KI), Jošt Hočevar (UL FKKT)
+
+**Scientific committee**: Marjetka Podobnik (KI), Miha Pavšič (UL FKKT)
+
+**Speakers** (alphabetical list, abbreviations used in affiliations are listed [here](#organisers)):
+- Primož Bembič (KI)
+- Andreja Kežar (KI)
+- Matic Kisovec (KI)
+- Vojč Kocman (KI)
+- Neža Koritnik (KI)
+- Anita Kotar (KI)
+- Matic Kovačič (KI)
+- Nataša Lindič (IJS)
+- Maja Marušič (KI)
+- Matej Novak (IJS)
+- Miha Pavšič (UL FKKT)
+- Marjetka Podobnik (KI)
+- Gašper Šolinc (KI)
+- Ajda Taler-Verčič (UL FKKT)
+- Dušan Turk (IJS, CIPKeBiP)
+- Aleksandra Usenik (IJS)
+- Nada Žnidaršič (UL BF)
+
 For any further information etc. please do not hesitate to contact us via [e-mail](mailto:instruct.si@ki.si).
 
 **Please note:** Follow the communication channels (**this website (most up-to-date)**, plus mailing list of Slovenian Biochemical Society, X social network profile of National Institute of Chemistry, and others) for any updates and further announcements.
@@ -84,7 +107,7 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 |14.05|Maja Marušič (KI): **NMR’s time to shine: dynamics and conformational changes of molecules**|
 |14.35|Vojč Kocman (KI): **High-resolution structures of biomolecules constructed from NMR derived structural restraints**|
 |15.05|*coffee break*|
-|15.20|Vojč Kocman, Anita Kotar, Maja Marušič + others: **Hands-on: NMR spectra recording demonstration and evaluating ligand-protein/DNA/RNA interactions** (see note below)|
+|15.20|Vojč Kocman, Anita Kotar, Maja Marušič + others (all KI): **Hands-on: NMR spectra recording demonstration and evaluating ligand-protein/DNA/RNA interactions** (see note below)|
 |16.50|*survey*|
 
 #### Day 3 (Thu, Nov 7): Cryo-Electron Microscopy (Cryo-EM)
@@ -96,16 +119,18 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 |10.05|*coffee break*|
 |10.30|Matic Kisovec (KI): **Cryo-electron microscopy**|
 |12.00|*lunch break*|
-|13.00|Matic Kisovec, Gašper Šolinc, Neža Koritnik (KI): **Tour and hands-on: sample preparation laboratories, vitrification laboratory, cryo-electron microscope** (see note below)|
+|13.00|Matic Kisovec, Gašper Šolinc, Neža Koritnik (all KI): **Tour and hands-on: sample preparation laboratories, vitrification laboratory, cryo-electron microscope** (see note below)|
 |14.30|*coffee break*|
 |15.00|Gašper Šolinc (KI): **Data analysis, structure determination I**|
 |16.15|*break*|
-|16.25|Neža Koritnik, Andreja Kežar, Primož Bembič (KI): **Data analysis, structure determination II**|
+|16.25|Neža Koritnik, Andreja Kežar, Primož Bembič (all KI): **Data analysis, structure determination II**|
 |17.30|*survey*|
 |17.35|*get-together*|
 
 Note: To follow the hands-on sections, **please bring your own laptop**, mouse is recommended. Wireless internet connection will be provided.
 {: .notice--success}
+
+Abbreviations used in affiliations are listed [here](#organisers).
 
 ## Organisers
 
