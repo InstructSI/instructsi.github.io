@@ -38,7 +38,7 @@ More info is available below and in the official announcements:
 
 <!--- [REGISTRATION FORM](https://forms.gle/ixqsPmgCFPjVd1pE7){: .btn .btn--danger} --->
 
-[REGISTRATIONS CLOSED ON 2024-10-24](){: .btn .btn--primary}
+[REGISTRATIONS CLOSED ON 2024-10-25](#basic-info-and-registration){: .btn .btn--primary}
 
 For any further information etc. please do not hesitate to contact us via [e-mail](mailto:instruct.si@ki.si).
 
