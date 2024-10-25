@@ -36,7 +36,9 @@ More info is available below and in the official announcements:
 - There will be **free coffee/tea** and **free lunches**, plus a **get-together** on the last day of the workshop.
 - The official language of the workshop will be **English**.
 
-[REGISTRATION FORM](https://forms.gle/ixqsPmgCFPjVd1pE7){: .btn .btn--danger}
+<!--- [REGISTRATION FORM](https://forms.gle/ixqsPmgCFPjVd1pE7){: .btn .btn--danger} --->
+
+[REGISTRATIONS CLOSED ON 2024-10-24](){: .btn .btn--primary}
 
 For any further information etc. please do not hesitate to contact us via [e-mail](mailto:instruct.si@ki.si).
 
