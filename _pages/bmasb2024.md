@@ -44,7 +44,7 @@ More info is available below and in the official announcements:
 
 **Scientific committee**: Marjetka Podobnik (KI), Miha Pavšič (UL FKKT)
 
-**Speakers** (alphabetical list, abbreviations used in affiliations are listed [here](#organisers)): Primož Bembič (KI), Andreja Kežar (KI), Matic Kisovec (KI), Vojč Kocman (KI), Neža Koritnik (KI), Anita Kotar (KI), Matic Kovačič (KI), Nataša Lindič (IJS), Maja Marušič (KI), Matej Novak (IJS), Miha Pavšič (UL FKKT), Marjetka Podobnik (KI), Gašper Šolinc (KI), Ajda Taler-Verčič (UL FKKT), Dušan Turk (IJS, CIPKeBiP), Aleksandra Usenik (IJS), Nada Žnidaršič (UL BF)
+**Speakers** (alphabetical list, abbreviations used in affiliations are listed [here](#organisers)): Primož Bembič (KI), Andreja Kežar (KI), Matic Kisovec (KI), Vojč Kocman (KI), Neža Koritnik (KI), Anita Kotar (KI), Nataša Lindič (IJS), Damjan Makuc (KI), Maja Marušič (KI), Matej Novak (IJS), Miha Pavšič (UL FKKT), Marjetka Podobnik (KI), Gašper Šolinc (KI), Ajda Taler-Verčič (UL FKKT), Dušan Turk (IJS, CIPKeBiP), Aleksandra Usenik (IJS), Nada Žnidaršič (UL BF)
 
 For any further information etc. please do not hesitate to contact us via [e-mail](mailto:instruct.si@ki.si).
 
@@ -80,11 +80,11 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 |----------:|-------------|
 | 9.00|Marjetka Podobnik (KI), Miha Pavič (UL FKKT): ***Welcome & general info***|
 | 9.15|Vojč Kocman (KI): **The basics of NMR**|
-| 9.45|Anita Kotar (KI): **Introduction to 1D and 2D NMR spectra**|
+| 9.45|Damjan Makuc (KI): **Introduction to 1D and 2D NMR spectra**|
 |10.15|*coffee break*|
 |10.30|Maja Marušič (KI): **Production of DNA/RNA and protein molecules suitable for NMR structural characterization**|
 |11.00|Anita Kotar (KI): **Strategies for assigment of DNA/RNA NMR spectra**|
-|11.40|Matic Kovačič (KI): **Strategies for assignment of protein NMR spectra**|
+|11.40|Anita Kotar (KI): **Strategies for assignment of protein NMR spectra**|
 |12.20|*lunch break*|
 |13.20|**Tour: NMR spectrometers and laboratories (KI)**|
 |14.05|Maja Marušič (KI): **NMR’s time to shine: dynamics and conformational changes of molecules**|
