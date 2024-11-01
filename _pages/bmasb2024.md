@@ -40,6 +40,9 @@ More info is available below and in the official announcements:
 
 [REGISTRATIONS CLOSED ON 2024-10-25](#basic-info-and-registration){: .btn .btn--primary}
 
+**Last minute info:** Participants are kindly asked to arrive at least 15 min before the start of the workshop.
+{: .notice--danger}
+
 **Organising committee**:  Marjetka Podobnik (KI), Miha Pavšič (UL FKKT), Maja Jamnik (KI), Matic Kisovec (KI), Jošt Hočevar (UL FKKT)
 
 **Scientific committee**: Marjetka Podobnik (KI), Miha Pavšič (UL FKKT)
@@ -49,7 +52,7 @@ More info is available below and in the official announcements:
 For any further information etc. please do not hesitate to contact us via [e-mail](mailto:instruct.si@ki.si).
 
 **Please note:** Follow the communication channels (**this website (most up-to-date)**, plus mailing list of Slovenian Biochemical Society, X social network profile of National Institute of Chemistry, and others) for any updates and further announcements.
-{: .notice--warning}
+{: .notice--info}
 
 ## Programme
 
@@ -110,8 +113,8 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 |17.30|*survey*|
 |17.35|*get-together*|
 
-Note: To follow the hands-on sections, **please bring your own laptop**, mouse is recommended. Wireless internet connection will be provided.
-{: .notice--success}
+**Note**: To follow the hands-on sections, **please bring your own laptop**, mouse is recommended. Wireless internet connection will be provided.
+{: .notice--warning}
 
 Abbreviations used in affiliations are listed [here](#organisers).
 
