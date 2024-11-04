@@ -49,7 +49,7 @@ More info is available below and in the official announcements:
 
 **Speakers** (alphabetical list, abbreviations used in affiliations are listed [here](#organisers)): Primož Bembič (KI), Andreja Kežar (KI), Matic Kisovec (KI), Vojč Kocman (KI), Neža Koritnik (KI), Anita Kotar (KI), Nataša Lindič (IJS), Damjan Makuc (KI), Maja Marušič (KI), Matej Novak (IJS), Miha Pavšič (UL FKKT), Marjetka Podobnik (KI), Gašper Šolinc (KI), Ajda Taler-Verčič (UL FKKT), Dušan Turk (IJS, CIPKeBiP), Aleksandra Usenik (IJS), Nada Žnidaršič (UL BF)
 
-For any further information etc. please do not hesitate to contact us via [e-mail](mailto:instruct.si@ki.si).
+For any further information etc. please do not hesitate to contact us via e-mail: [marjetka.podobnik@ki.si](mailto:marjetka.podobnik@ki.si), [miha.pavsic@fkkt.uni-lj.si](mailto:miha.pavsic@fkkt.uni-lj.si), [matic.kisovec@ki.si](mailto:matic.kisovec@ki.si), [maja.jamnik@ki.si](mailto:maja.jamnik@ki.si)
 
 **Please note:** Follow the communication channels (**this website (most up-to-date)**, plus mailing list of Slovenian Biochemical Society, X social network profile of National Institute of Chemistry, and others) for any updates and further announcements.
 {: .notice--info}
@@ -72,7 +72,7 @@ For any further information etc. please do not hesitate to contact us via [e-mai
 |13.00|Nataša Lindič (IJS): **Crystallization, crystal harvesting, and preparation for data collection**|
 |13.45|Matej Novak (IJS): **Diffraction data collection and processing**|
 |14.15|*coffee break*|
-|14.30|Miha Pavšič (UL FKKT): **Hands-on: Introduction to structure model building and refinement** (see note below)|
+|14.30|Miha Pavšič (UL FKKT): **Hands-on: Introduction to structure model building and refinement in macromolecular crystallography** (see note below)|
 |15.30|*survey*|
 |15.35|*walk to IJS*|
 |15.55|**Tour: Crystallization robot and chamber, in-house X-ray machine (IJS)**|
