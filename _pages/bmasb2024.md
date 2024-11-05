@@ -54,6 +54,9 @@ For any further information etc. please do not hesitate to contact us via e-mail
 **Please note:** Follow the communication channels (**this website (most up-to-date)**, plus mailing list of Slovenian Biochemical Society, X social network profile of National Institute of Chemistry, and others) for any updates and further announcements.
 {: .notice--info}
 
+**Online storage for handouts and hands-on files**: [https://oblak.ki.si/index.php/s/VAmOlIaGgifSI1h](https://oblak.ki.si/index.php/s/VAmOlIaGgifSI1h) (password to access the files will be given at the workshop)
+{: .notice--warning}
+
 ## Programme
 
 ![BMASB2024 Programme at a glance]({{ site.url }}{{ site.baseurl }}/assets/images/base/bmasb2024-programme_at_a_glance.png)
