@@ -142,7 +142,7 @@ Organisers thank to the [Slovenian Research and Innovation Agency (ARIS)](https:
 
 ## Photos
 
-Here you can see some photo during the event.
+Here you can see some photos taken during the event.
 
 ### Day 1 (5 Nov 2024)
 
