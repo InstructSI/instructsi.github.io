@@ -18,11 +18,27 @@ header:
       url: "/bmasb2024/#basic-info-and-registration"
 gallery1:
   - url: /assets/images/bmasb2024/2024-11-05-bmasb-01.jpg
-    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-01.jpg
+    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-01-th.jpg
     title: "Opening of the workshop (photo by Matic Kisovec)"
   - url: /assets/images/bmasb2024/2024-11-05-bmasb-02.jpg
-    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-02.jpg
+    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-02-th.jpg
     title: "Opening of the workshop (photo by Matic Kisovec)"
+gallery2:
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-01.jpg
+    image_path: /assets/images/bmasb2024/2024-11-06-bmasb-01-th.jpg
+    title: "Lecture by Maja Marušič on sample preparation for NMR (photo by Miha Pavšič)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-02.jpg
+    image_path: /assets/images/bmasb2024/2024-11-06-bmasb-02-th.jpg
+    title: "Tour of the Slovenian NMR Centre (photo by Miha Pavšič)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-03.jpg
+    image_path: /assets/images/bmasb2024/2024-11-06-bmasb-03-th.jpg
+    title: "Tour of the Slovenian NMR Centre (photo by Miha Pavšič)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-04.jpg
+    image_path: /assets/images/bmasb2024/2024-11-06-bmasb-04-th.jpg
+    title: "Tour of the Slovenian NMR Centre (photo by Miha Pavšič)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-05.jpg
+    image_path: /assets/images/bmasb2024/2024-11-06-bmasb-05-th.jpg
+    title: "Hands-on section on NMR STD analysis (photo by Miha Pavšič)"
 ---
 
 **[Instruct.SI consortium](https://instruct-eric.si)** is kindly inviting to a three-day workshop "**Basics of Methodological Approaches in Structural Biology**", where atendees will be able to obtain or refresh basic knowledge on high-resolution structural biology approaches: **macromolecular crystallography (MX)**, **nuclear magnetic resonance (NMR)**, and **cryogenic electron microscopy (cryo-EM)**.
@@ -146,14 +162,14 @@ Here you can see some photos taken during the event.
 
 ### Day 1 (5 Nov 2024)
 
-{% include gallery id="gallery1" caption="Opening of the workshop, continued with macromolecular crystallography presentations" %}
+{% include gallery id="gallery1" %}
 
 
 ### Day 2 (5 Nov 2024)
 
-<!-- {% include gallery id="gallery2" caption="Nuclear magnetic resonance" %} -->
+<!-- {% include gallery id="gallery2" %} -->
 
 
 ### Day 3 (5 Nov 2024)
 
-<!-- {% include gallery id="gallery3" caption="Cryo-electron microscopy, finishing with a get-together" %} -->
+<!-- {% include gallery id="gallery3" %} -->
