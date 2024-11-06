@@ -171,11 +171,11 @@ Here you can see some photos taken during the event.
 {% include gallery id="gallery1" %}
 
 
-### Day 2 (5 Nov 2024)
+### Day 2 (6 Nov 2024)
 
 {% include gallery id="gallery2" %}
 
 
-### Day 3 (5 Nov 2024)
+### Day 3 (7 Nov 2024)
 
 <!-- {% include gallery id="gallery3" %} -->
