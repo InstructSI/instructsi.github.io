@@ -85,9 +85,9 @@ For any further information etc. please do not hesitate to contact us via e-mail
 |Time       |Topic        |
 |----------:|-------------|
 | 9.00|Marjetka Podobnik (KI), Miha Pavšič (UL FKKT): ***Welcome & general info***|
-| 9.15|Vojč Kocman (KI): **The basics of NMR**|
-| 9.45|Damjan Makuc (KI): **Introduction to 1D and 2D NMR spectra**|
-|10.15|*coffee break*|
+| 9.05|Vojč Kocman (KI): **The basics of NMR**|
+| 9.35|Damjan Makuc (KI): **Introduction to 1D and 2D NMR spectra**|
+|10.05|*coffee break*|
 |10.30|Maja Marušič (KI): **Production of DNA/RNA and protein molecules suitable for NMR structural characterization**|
 |11.00|Anita Kotar (KI): **Strategies for assigment of DNA/RNA NMR spectra**|
 |11.40|Anita Kotar (KI): **Strategies for assignment of protein NMR spectra**|
@@ -95,9 +95,9 @@ For any further information etc. please do not hesitate to contact us via e-mail
 |13.20|**Tour: NMR spectrometers and laboratories (KI)**|
 |14.05|Maja Marušič (KI): **NMR’s time to shine: dynamics and conformational changes of molecules**|
 |14.35|Vojč Kocman (KI): **High-resolution structures of biomolecules constructed from NMR derived structural restraints**|
-|15.05|*coffee break*|
-|15.20|Vojč Kocman, Anita Kotar, Maja Marušič + others (all KI): **Hands-on: NMR spectra recording demonstration and evaluating ligand-protein/DNA/RNA interactions** (see note below)|
-|16.50|*survey*|
+|15.10|*coffee break*|
+|15.25|Vojč Kocman, Anita Kotar, Maja Marušič + others (all KI): **Hands-on: NMR spectra recording demonstration and evaluating ligand-protein/DNA/RNA interactions** (see note below)|
+|16.55|*survey*|
 
 #### Day 3 (Thu, Nov 7): Cryo-Electron Microscopy (Cryo-EM)
 
