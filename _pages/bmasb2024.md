@@ -38,6 +38,12 @@ gallery2:
     title: "Tour of the Slovenian NMR Centre (photo by Miha Pavšič)"
   - url: /assets/images/bmasb2024/2024-11-06-bmasb-05.jpg
     image_path: /assets/images/bmasb2024/2024-11-06-bmasb-05-th.jpg
+    title: "Tour of the Slovenian NMR Centre (photo by Miha Pavšič)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-06.jpg
+    image_path: /assets/images/bmasb2024/2024-11-06-bmasb-06-th.jpg
+    title: "Tour of the Slovenian NMR Centre (photo by Miha Pavšič)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-07.jpg
+    image_path: /assets/images/bmasb2024/2024-11-06-bmasb-07-th.jpg
     title: "Hands-on section on NMR STD analysis (photo by Miha Pavšič)"
 ---
 
