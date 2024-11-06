@@ -6,7 +6,7 @@ layout: splash
 classes: wide
 author_profile: false
 toc: false
-last_modified_at: 2024-10-08
+last_modified_at: 2024-11-06
 toc_sticky: true
 hidden: true
 header:
@@ -146,12 +146,12 @@ Here you can see some photo during the event.
 
 ### Day 1 (5 Nov 2024)
 
-{% include gallery id="gallery1" class="full" caption="Opening of the workshop, continued with macromolecular crystallography presentations" %}
+{% include gallery id="gallery1" caption="Opening of the workshop, continued with macromolecular crystallography presentations" %}
 
 
 ### Day 2 (5 Nov 2024)
 
-<!-- {% include gallery id="gallery2" class="full" caption="Nuclear magnetic resonance" %} -->
+<!-- {% include gallery id="gallery2" caption="Nuclear magnetic resonance" %} -->
 
 
 ### Day 3 (5 Nov 2024)
