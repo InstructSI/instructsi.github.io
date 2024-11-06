@@ -19,10 +19,10 @@ header:
 gallery1:
   - url: /assets/images/bmasb2024/2024-11-05-bmasb-01.jpg
     image_path: /assets/images/bmasb2024/2024-11-05-bmasb-01-th.jpg
-    title: "Opening of the workshop"
+    title: "Opening of the workshop (photo by Matic Kisovec)"
   - url: /assets/images/bmasb2024/2024-11-05-bmasb-02.jpg
     image_path: /assets/images/bmasb2024/2024-11-05-bmasb-02-th.jpg
-    title: "Opening of the workshop"
+    title: "Opening of the workshop (photo by Matic Kisovec)"
 ---
 
 **[Instruct.SI consortium](https://instruct-eric.si)** is kindly inviting to a three-day workshop "**Basics of Methodological Approaches in Structural Biology**", where atendees will be able to obtain or refresh basic knowledge on high-resolution structural biology approaches: **macromolecular crystallography (MX)**, **nuclear magnetic resonance (NMR)**, and **cryogenic electron microscopy (cryo-EM)**.
@@ -54,7 +54,7 @@ More info is available below and in the official announcements:
 
 **Scientific committee**: Marjetka Podobnik (KI), Miha Pavšič (UL FKKT)
 
-**Speakers** (alphabetical list, abbreviations used in affiliations are listed [here](#organisers)): Primož Bembič (KI), Andreja Kežar (KI), Matic Kisovec (KI), Vojč Kocman (KI), Neža Koritnik (KI), Anita Kotar (KI), Nataša Lindič (IJS), Damjan Makuc (KI), Maja Marušič (KI), Matej Novak (IJS), Miha Pavšič (UL FKKT), Marjetka Podobnik (KI), Gašper Šolinc (KI), Ajda Taler-Verčič (UL FKKT), Dušan Turk (IJS, CIPKeBiP), Aleksandra Usenik (IJS), Nada Žnidaršič (UL BF)
+**Speakers** (alphabetical list, abbreviations used in affiliations are listed at the ['Organisers' section of this page](#organisers)): Primož Bembič (KI), Andreja Kežar (KI), Matic Kisovec (KI), Vojč Kocman (KI), Neža Koritnik (KI), Anita Kotar (KI), Nataša Lindič (IJS), Damjan Makuc (KI), Maja Marušič (KI), Matej Novak (IJS), Miha Pavšič (UL FKKT), Marjetka Podobnik (KI), Gašper Šolinc (KI), Ajda Taler-Verčič (UL FKKT), Dušan Turk (IJS, CIPKeBiP), Aleksandra Usenik (IJS), Nada Žnidaršič (UL BF)
 
 For any further information etc. please do not hesitate to contact us via e-mail: [instruct.si@ki.si](mailto:instruct.si@ki.si) (or directly via [marjetka.podobnik@ki.si](mailto:marjetka.podobnik@ki.si), [miha.pavsic@fkkt.uni-lj.si](mailto:miha.pavsic@fkkt.uni-lj.si), [matic.kisovec@ki.si](mailto:matic.kisovec@ki.si), [maja.jamnik@ki.si](mailto:maja.jamnik@ki.si))
 
@@ -126,7 +126,7 @@ For any further information etc. please do not hesitate to contact us via e-mail
 **Note**: To follow the hands-on sections, **please bring your own laptop**, mouse is recommended. Wireless internet connection will be provided.
 {: .notice--warning}
 
-Abbreviations used in affiliations are listed [here](#organisers).
+Abbreviations used in affiliations are listed at the ['Organisers' section of this page](#organisers).
 
 ## Organisers
 
@@ -146,7 +146,7 @@ Here you can see some photo during the event.
 
 ### Day 1 (5 Nov 2024)
 
-<!-- {% include gallery id="gallery1" class="full" caption="Opening of the workshop, continued with macromolecular crystallography presentations" %} -->
+{% include gallery id="gallery1" class="full" caption="Opening of the workshop, continued with macromolecular crystallography presentations" %}
 
 
 ### Day 2 (5 Nov 2024)
