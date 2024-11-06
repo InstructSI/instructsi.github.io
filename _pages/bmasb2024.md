@@ -11,11 +11,18 @@ toc_sticky: true
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/base/bmasb2024-intro.png
+  overlay_image: /assets/images/bmasb2024/bmasb2024-intro.png
   overlay_filter: 0.25 # same as adding a set level of opacity to a black background
   actions:
     - label: "Basic info and registration"
       url: "/bmasb2024/#basic-info-and-registration"
+gallery1:
+  - url: /assets/images/bmasb2024/2024-11-05-bmasb-01.jpg
+    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-01-th.jpg
+    title: "Opening of the workshop"
+  - url: /assets/images/bmasb2024/2024-11-05-bmasb-02.jpg
+    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-02-th.jpg
+    title: "Opening of the workshop"
 ---
 
 **[Instruct.SI consortium](https://instruct-eric.si)** is kindly inviting to a three-day workshop "**Basics of Methodological Approaches in Structural Biology**", where atendees will be able to obtain or refresh basic knowledge on high-resolution structural biology approaches: **macromolecular crystallography (MX)**, **nuclear magnetic resonance (NMR)**, and **cryogenic electron microscopy (cryo-EM)**.
@@ -59,7 +66,7 @@ For any further information etc. please do not hesitate to contact us via e-mail
 
 ## Programme
 
-![BMASB2024 Programme at a glance]({{ site.url }}{{ site.baseurl }}/assets/images/base/bmasb2024-programme_at_a_glance.png)
+![BMASB2024 Programme at a glance]({{ site.url }}{{ site.baseurl }}/assets/images/bmasb2024/bmasb2024-programme_at_a_glance.png)
 
 #### Day 1 (Tue, Nov 5): Macromolecular Crystallography (MX)
 
@@ -132,3 +139,21 @@ Abbreviations used in affiliations are listed [here](#organisers).
 - [Jožef Stefan Institute (IJS/JSI)](https://www.ijs.si/), Ljubljana
 
 Organisers thank to the [Slovenian Research and Innovation Agency (ARIS)](https://www.arrs.si/) and [Ministry of Higher Education, Science and Innovation of Republic of Slovenia](https://www.gov.si/drzavni-organi/ministrstva/ministrstvo-za-visoko-solstvo-znanost-in-inovacije/), for financial support.
+
+## Photos
+
+Here you can see some photo during the event.
+
+### Day 1 (5 Nov 2024)
+
+<!-- {% include gallery id="gallery1" class="full" caption="Opening of the workshop, continued with macromolecular crystallography presentations" %} -->
+
+
+### Day 2 (5 Nov 2024)
+
+<!-- {% include gallery id="gallery2" class="full" caption="Nuclear magnetic resonance" %} -->
+
+
+### Day 3 (5 Nov 2024)
+
+<!-- {% include gallery id="gallery3" class="full" caption="Cryo-electron microscopy, finishing with a get-together" %} -->
