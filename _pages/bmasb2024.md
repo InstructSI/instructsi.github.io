@@ -156,4 +156,4 @@ Here you can see some photo during the event.
 
 ### Day 3 (5 Nov 2024)
 
-<!-- {% include gallery id="gallery3" class="full" caption="Cryo-electron microscopy, finishing with a get-together" %} -->
+<!-- {% include gallery id="gallery3" caption="Cryo-electron microscopy, finishing with a get-together" %} -->
