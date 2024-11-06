@@ -146,14 +146,14 @@ Here you can see some photo during the event.
 
 ### Day 1 (5 Nov 2024)
 
-{% include gallery id="gallery1" caption="Opening of the workshop, continued with macromolecular crystallography presentations" %}
+{% include gallery id="gallery1" layout="half" caption="Opening of the workshop, continued with macromolecular crystallography presentations" %}
 
 
 ### Day 2 (5 Nov 2024)
 
-<!-- {% include gallery id="gallery2" caption="Nuclear magnetic resonance" %} -->
+<!-- {% include gallery id="gallery2" layout="half" caption="Nuclear magnetic resonance" %} -->
 
 
 ### Day 3 (5 Nov 2024)
 
-<!-- {% include gallery id="gallery3" caption="Cryo-electron microscopy, finishing with a get-together" %} -->
+<!-- {% include gallery id="gallery3" layout="half" caption="Cryo-electron microscopy, finishing with a get-together" %} -->
