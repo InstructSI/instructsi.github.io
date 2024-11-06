@@ -18,10 +18,10 @@ header:
       url: "/bmasb2024/#basic-info-and-registration"
 gallery1:
   - url: /assets/images/bmasb2024/2024-11-05-bmasb-01.jpg
-    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-01-th.jpg
+    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-01.jpg
     title: "Opening of the workshop (photo by Matic Kisovec)"
   - url: /assets/images/bmasb2024/2024-11-05-bmasb-02.jpg
-    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-02-th.jpg
+    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-02.jpg
     title: "Opening of the workshop (photo by Matic Kisovec)"
 ---
 
@@ -146,14 +146,14 @@ Here you can see some photos taken during the event.
 
 ### Day 1 (5 Nov 2024)
 
-{% include gallery id="gallery1" layout="half" caption="Opening of the workshop, continued with macromolecular crystallography presentations" %}
+{% include gallery id="gallery1" caption="Opening of the workshop, continued with macromolecular crystallography presentations" %}
 
 
 ### Day 2 (5 Nov 2024)
 
-<!-- {% include gallery id="gallery2" layout="half" caption="Nuclear magnetic resonance" %} -->
+<!-- {% include gallery id="gallery2" caption="Nuclear magnetic resonance" %} -->
 
 
 ### Day 3 (5 Nov 2024)
 
-<!-- {% include gallery id="gallery3" layout="half" caption="Cryo-electron microscopy, finishing with a get-together" %} -->
+<!-- {% include gallery id="gallery3" caption="Cryo-electron microscopy, finishing with a get-together" %} -->
