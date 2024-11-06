@@ -95,7 +95,7 @@ For any further information etc. please do not hesitate to contact us via e-mail
 |13.20|**Tour: NMR spectrometers and laboratories (KI)**|
 |14.05|Maja Marušič (KI): **NMR’s time to shine: dynamics and conformational changes of molecules**|
 |14.35|Vojč Kocman (KI): **High-resolution structures of biomolecules constructed from NMR derived structural restraints**|
-|15.10|*coffee break*|
+|15.05|*coffee break*|
 |15.25|Vojč Kocman, Anita Kotar, Maja Marušič + others (all KI): **Hands-on: NMR spectra recording demonstration and evaluating ligand-protein/DNA/RNA interactions** (see note below)|
 |16.55|*survey*|
 
