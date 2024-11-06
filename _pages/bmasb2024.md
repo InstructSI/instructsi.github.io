@@ -167,7 +167,7 @@ Here you can see some photos taken during the event.
 
 ### Day 2 (5 Nov 2024)
 
-<!-- {% include gallery id="gallery2" %} -->
+{% include gallery id="gallery2" %}
 
 
 ### Day 3 (5 Nov 2024)
