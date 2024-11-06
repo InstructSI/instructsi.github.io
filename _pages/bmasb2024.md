@@ -23,6 +23,27 @@ gallery1:
   - url: /assets/images/bmasb2024/2024-11-05-bmasb-02.jpg
     image_path: /assets/images/bmasb2024/2024-11-05-bmasb-02-th.jpg
     title: "Opening of the workshop (photo by Matic Kisovec)"
+  - url: /assets/images/bmasb2024/2024-11-05-bmasb-03.jpg
+    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-03.jpg
+    title: "(photo by Marjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-05-bmasb-04.jpg
+    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-04.jpg
+    title: "Introductory lecture by Dušan Turk (photo by Marjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-05-bmasb-05.jpg
+    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-05.jpg
+    title: "Lecture on construct design by Ajda Taler-Verčič (photo by Marjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-05-bmasb-06.jpg
+    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-06.jpg
+    title: "Lecture on protein production by Aleksandra Usenik (photo by MMarjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-05-bmasb-07.jpg
+    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-07.jpg
+    title: "Lecture on protein production by AMiha Pavšič (photo by Marjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-05-bmasb-08.jpg
+    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-08.jpg
+    title: "Lecture on protein crystallization by Nataša Lindič (photo by Marjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-05-bmasb-09.jpg
+    image_path: /assets/images/bmasb2024/2024-11-05-bmasb-09.jpg
+    title: "Lecture on diffraction data colletion by Matej Novak (photo by Marjetka Podobnik)"
 gallery2:
   - url: /assets/images/bmasb2024/2024-11-06-bmasb-01.jpg
     image_path: /assets/images/bmasb2024/2024-11-06-bmasb-01-th.jpg
