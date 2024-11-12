@@ -6,7 +6,7 @@ layout: splash
 classes: wide
 author_profile: false
 toc: false
-last_modified_at: 2024-11-06
+last_modified_at: 2024-11-12
 toc_sticky: true
 hidden: true
 header:
@@ -66,6 +66,58 @@ gallery2:
   - url: /assets/images/bmasb2024/2024-11-06-bmasb-07.jpg
     image_path: /assets/images/bmasb2024/2024-11-06-bmasb-07-th.jpg
     title: "Hands-on section on NMR STD analysis (photo by Miha Pavšič)"
+gallery3:
+  - url: /assets/images/bmasb2024/2024-11-07-bmasb-01.jpg
+    image_path: /assets/images/bmasb2024/2024-11-07-bmasb-01.jpg
+    title: "Lecture by Nada Žnidaršič on transmission electron microscopy (photo by Marjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-02.jpg
+    image_path: /assets/images/bmasb2024/2024-11-07-bmasb-02.jpg
+    title: "Lecture by Gašper Šolinc (photo by Marjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-03.jpg
+    image_path: /assets/images/bmasb2024/2024-11-07-bmasb-03.jpg
+    title: "Lecture by Matic Kisovec on cryogenic TEM (photo by Marjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-04.jpg
+    image_path: /assets/images/bmasb2024/2024-11-07-bmasb-04.jpg
+    title: "lunch break (photo by Marjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-05.jpg
+    image_path: /assets/images/bmasb2024/2024-11-07-bmasb-05.jpg
+    title: "lunch break (photo by Marjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-06.jpg
+    image_path: /assets/images/bmasb2024/2024-11-07-bmasb-06-th.jpg
+    title: "Intro to the tour by Gašper Šolinc and Neža Koritnik (photo by Miha Pavšič)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-07.jpg
+    image_path: /assets/images/bmasb2024/2024-11-07-bmasb-07-th.jpg
+    title: "Tour at the cryo-EM facility (photo by Miha Pavšič)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-08.jpg
+    image_path: /assets/images/bmasb2024/2024-11-07-bmasb-08-th.jpg
+    title: "Tour at the cryo-EM facility (photo by Miha Pavšič)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-09.jpg
+    image_path: /assets/images/bmasb2024/2024-11-07-bmasb-09.jpg
+    title: "Lecture by Andreja Kežar on data analysis and structure determination (photo by Marjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-10.jpg
+    image_path: /assets/images/bmasb2024/2024-11-07-bmasb-10.jpg
+    title: "Lecture by Neža Koritnik on data analysis and structure determination (photo by Marjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-11.jpg
+    image_path: /assets/images/bmasb2024/2024-11-07-bmasb-11.jpg
+    title: "Lecture by Primož Bembič on data analysis and structure determination (photo by Marjetka Podobnik)"
+  - url: /assets/images/bmasb2024/2024-11-06-bmasb-12.jpg
+    image_path: /assets/images/bmasb2024/2024-11-07-bmasb-12.jpg
+    title: "Get-together (photo by Marjetka Podobnik)"
+---
+
+{% capture notice-text %}
+We are pleased to announce the successful completion of the workshop **Basic Methodological Approaches in Structural Biology**, that was organized by the Instruct.SI consortium on 5–7 November 2024 at the National Institute of Chemistry, Ljubljana. The workshop drew a high level of interest from participants, underscoring the value of foundational training in structural biology methodologies, and highlighting the field’s relevance and application in numerous scientific contexts. Each day more than 50 participant attended, with a peak of 69 participants on a single day.
+
+The overwhelming interest and positive feedback from attendees strongly indicate a need for further workshops. Given this demand, we are considering to organize more advanced sessions in the future to address the growing interest and support skill-building in complex and specialized structural biology techniques.
+
+Moments from the workshop are captured in the [gallery](#photos) below, and soon a booklet with abstracts of talks will be available online at this page.
+{% endcapture %}
+
+<div class="notice--info">
+  <h4 class="no_toc">Post-workshop post (2024-11-12)</h4>
+  {{ notice-text | markdownify }}
+</div>
+
 ---
 
 **[Instruct.SI consortium](https://instruct-eric.si)** is kindly inviting to a three-day workshop "**Basics of Methodological Approaches in Structural Biology**", where atendees will be able to obtain or refresh basic knowledge on high-resolution structural biology approaches: **macromolecular crystallography (MX)**, **nuclear magnetic resonance (NMR)**, and **cryogenic electron microscopy (cryo-EM)**.
@@ -199,4 +251,4 @@ Here you can see some photos taken during the event.
 
 ### Day 3 (7 Nov 2024)
 
-<!-- {% include gallery id="gallery3" %} -->
+{% include gallery id="gallery3" %}
