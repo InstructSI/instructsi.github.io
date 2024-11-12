@@ -70,37 +70,37 @@ gallery3:
   - url: /assets/images/bmasb2024/2024-11-07-bmasb-01.jpg
     image_path: /assets/images/bmasb2024/2024-11-07-bmasb-01.jpg
     title: "Lecture by Nada Žnidaršič on transmission electron microscopy (photo by Marjetka Podobnik)"
-  - url: /assets/images/bmasb2024/2024-11-06-bmasb-02.jpg
+  - url: /assets/images/bmasb2024/2024-11-07-bmasb-02.jpg
     image_path: /assets/images/bmasb2024/2024-11-07-bmasb-02.jpg
     title: "Lecture by Gašper Šolinc (photo by Marjetka Podobnik)"
-  - url: /assets/images/bmasb2024/2024-11-06-bmasb-03.jpg
+  - url: /assets/images/bmasb2024/2024-11-07-bmasb-03.jpg
     image_path: /assets/images/bmasb2024/2024-11-07-bmasb-03.jpg
     title: "Lecture by Matic Kisovec on cryogenic TEM (photo by Marjetka Podobnik)"
-  - url: /assets/images/bmasb2024/2024-11-06-bmasb-04.jpg
+  - url: /assets/images/bmasb2024/2024-11-07-bmasb-04.jpg
     image_path: /assets/images/bmasb2024/2024-11-07-bmasb-04.jpg
     title: "lunch break (photo by Marjetka Podobnik)"
-  - url: /assets/images/bmasb2024/2024-11-06-bmasb-05.jpg
+  - url: /assets/images/bmasb2024/2024-11-07-bmasb-05.jpg
     image_path: /assets/images/bmasb2024/2024-11-07-bmasb-05.jpg
     title: "lunch break (photo by Marjetka Podobnik)"
-  - url: /assets/images/bmasb2024/2024-11-06-bmasb-06.jpg
+  - url: /assets/images/bmasb2024/2024-11-07-bmasb-06.jpg
     image_path: /assets/images/bmasb2024/2024-11-07-bmasb-06-th.jpg
     title: "Intro to the tour by Gašper Šolinc and Neža Koritnik (photo by Miha Pavšič)"
-  - url: /assets/images/bmasb2024/2024-11-06-bmasb-07.jpg
+  - url: /assets/images/bmasb2024/2024-11-07-bmasb-07.jpg
     image_path: /assets/images/bmasb2024/2024-11-07-bmasb-07-th.jpg
     title: "Tour at the cryo-EM facility (photo by Miha Pavšič)"
-  - url: /assets/images/bmasb2024/2024-11-06-bmasb-08.jpg
+  - url: /assets/images/bmasb2024/2024-11-07-bmasb-08.jpg
     image_path: /assets/images/bmasb2024/2024-11-07-bmasb-08-th.jpg
     title: "Tour at the cryo-EM facility (photo by Miha Pavšič)"
-  - url: /assets/images/bmasb2024/2024-11-06-bmasb-09.jpg
+  - url: /assets/images/bmasb2024/2024-11-07-bmasb-09.jpg
     image_path: /assets/images/bmasb2024/2024-11-07-bmasb-09.jpg
     title: "Lecture by Andreja Kežar on data analysis and structure determination (photo by Marjetka Podobnik)"
-  - url: /assets/images/bmasb2024/2024-11-06-bmasb-10.jpg
+  - url: /assets/images/bmasb2024/2024-11-07-bmasb-10.jpg
     image_path: /assets/images/bmasb2024/2024-11-07-bmasb-10.jpg
     title: "Lecture by Neža Koritnik on data analysis and structure determination (photo by Marjetka Podobnik)"
-  - url: /assets/images/bmasb2024/2024-11-06-bmasb-11.jpg
+  - url: /assets/images/bmasb2024/2024-11-07-bmasb-11.jpg
     image_path: /assets/images/bmasb2024/2024-11-07-bmasb-11.jpg
     title: "Lecture by Primož Bembič on data analysis and structure determination (photo by Marjetka Podobnik)"
-  - url: /assets/images/bmasb2024/2024-11-06-bmasb-12.jpg
+  - url: /assets/images/bmasb2024/2024-11-07-bmasb-12.jpg
     image_path: /assets/images/bmasb2024/2024-11-07-bmasb-12.jpg
     title: "Get-together (photo by Marjetka Podobnik)"
 ---
