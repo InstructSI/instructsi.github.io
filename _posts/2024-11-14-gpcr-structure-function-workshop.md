@@ -6,7 +6,7 @@ tags:
   - workshop
 ---
 
-We cordially invite you to attend a workshop "**GPCR Structure & Function**", which will be held on **Tuesday, December 10, 2024**, at the [**Slovenian Academy of Sciences and Arts**](https://www.sazu.si/), [Novi trg 3, Ljubljana](https://www.openstreetmap.org/?mlat=46.042371&mlon=14.487311#map=19/46.042372/14.487311), in the SAZA hall.
+We cordially invite you to attend a workshop "**GPCR Structure & Function**", which will be held on **Tuesday, December 10, 2024**, at the [**Slovenian Academy of Sciences and Arts**](https://www.sazu.si/), [Novi trg 3, Ljubljana](https://www.openstreetmap.org/#map=19/46.047598/14.504020), in the SAZA hall.
 
 *This year's Nobel Prize laureates in Physiology or Medicine discovered mechanisms that regulate gene activity at the post-transcriptional level. This is a groundbreaking discovery, as it was previously believed that gene expression was controlled exclusively by protein factors. This finding has shifted our understanding of cell differentiation in multicellular organisms. Cell function regulation in multicellular organisms is also influenced by factors released into the extracellular space that, through receptors on the cell membrane, impact gene expression. Among these receptors are those coupled with G-proteins.*
 
