@@ -110,7 +110,7 @@ We are pleased to announce the successful completion of the workshop **Basic Met
 
 The overwhelming interest and positive feedback from attendees strongly indicate a need for further workshops. Given this demand, we are considering to organize more advanced sessions in the future to address the growing interest and support skill-building in complex and specialized structural biology techniques.
 
-Moments from the workshop are captured in the [gallery](#photos) below, and soon a booklet with abstracts of talks will be available online at this page.
+Materials (presentations) plus **booklet with abstracts** of talks are be available at the [materials](#materials) section. Moments from the workshop are captured in the [gallery](#photos).
 {% endcapture %}
 
 <div class="notice--info">
@@ -156,7 +156,12 @@ For any further information etc. please do not hesitate to contact us via e-mail
 **Please note:** Follow the communication channels (**this website (most up-to-date)**, plus mailing list of Slovenian Biochemical Society, X social network profile of National Institute of Chemistry, and others) for any updates and further announcements.
 {: .notice--info}
 
-**Online storage for handouts and hands-on files**: [https://oblak.ki.si/index.php/s/VAmOlIaGgifSI1h](https://oblak.ki.si/index.php/s/VAmOlIaGgifSI1h) (password to access the files will be given at the workshop)
+## Materials
+
+Abstracts of talks and relevant links to some online resources are available in the [**Book of Abstracts**]({{ site.url }}{{ site.baseurl }}/assets/docs/2024-bmasb2024-book_of_abstracts.pdf).
+{: .notice--warning}
+
+**Online storage for handouts and hands-on files**: [https://oblak.ki.si/index.php/s/VAmOlIaGgifSI1h](https://oblak.ki.si/index.php/s/VAmOlIaGgifSI1h) (password to access the files given at the workshop)
 {: .notice--warning}
 
 ## Programme
