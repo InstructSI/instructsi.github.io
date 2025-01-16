@@ -6,6 +6,7 @@ tags:
   - research
   - funding
   - internship
+  - instruct-eric
 ---
 
 Instruct-ERIC has published two calls – one is for early-career reseacrhers, the other for PhD students and early-career postdocs. Please, see below for details.
