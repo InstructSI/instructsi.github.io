@@ -1,0 +1,12 @@
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var emailLinks = document.querySelectorAll('.email-link');
+        emailLinks.forEach(function(link) {
+            var user = link.getAttribute('data-user');
+            var domain = link.getAttribute('data-domain');
+            var email = user + '@' + domain;
+            link.href = 'mailto:' + email;
+            link.textContent = email;
+        });
+    });
+</script>

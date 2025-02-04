@@ -61,9 +61,9 @@ The management board of the Instruct.SI consortium is composed of one main repre
 | UM 	| Assoc. Prof. Dr. **Andraž Stožer** 	| Prof. Dr. **Zoran Ren** 	|
 | UNG 	| Prof. Dr. **Ario de Marco** 	| Dr. **Matteo De March** 	|
 
-President of the management board: Assoc. Prof. Dr. **Miha Pavšič**
+President of the management board: Assoc. Prof. Dr. **Miha Pavšič** (<a class="email-link" data-user="miha.pavsic" data-domain="fkkt.uni-lj.si">[email protected]</a>)
 
-Coordinator of the consortium: Assoc. Prof. Dr. **Marjetka Podobnik**
+Coordinator of the consortium: Assoc. Prof. Dr. **Marjetka Podobnik** (<a class="email-link" data-user="instruct.si" data-domain="ki.si">[email protected]</a>)
 
 ### Management board tasks
 
@@ -88,9 +88,4 @@ Slovenian delegates to the Instruct-ERIC Council:
 Membership of the Republic of Slovenia in the Instruct-ERIC is financed by:
 - [Slovenian Research and Innovation Agency](https://www.arrs.si/en/)
 - [Ministry of Higher Education, Science and Innovation](https://www.gov.si/en/state-authorities/ministries/ministry-of-higher-education-science-and-innovation/) of the Republic of Slovenia
-
-{% include gallery %}
-
-## Logo
-
-High-resolution logo of Instruct.SI can be downloaded via this [link]({{ site.url }}{{ site.baseurl }}/assets/images/logo/Instruct-ERIC_Slovenia.png) (PNG format, transparent background). Please use it on all materials related to Instruct.SI (co)-financed activities.
+eptember 24, 2024
