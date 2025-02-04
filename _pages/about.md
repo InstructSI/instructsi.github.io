@@ -63,7 +63,7 @@ The management board of the Instruct.SI consortium is composed of one main repre
 
 President of the management board: Assoc. Prof. Dr. **Miha Pavšič** (<a class="email-link" data-user="miha.pavsic" data-domain="fkkt.uni-lj.si">[email protected]</a>)
 
-Coordinator of the consortium: Assoc. Prof. Dr. **Marjetka Podobnik** (<a class="email-link" data-user="instruct.si" data-domain="ki.si">[email protected]</a>)
+Coordinator of the consortium: Assoc. Prof. Dr. **Marjetka Podobnik** (<a class="email-link" data-user="marjetka.podobnik" data-domain="ki.si">[email protected]</a>)
 
 ### Management board tasks
 
