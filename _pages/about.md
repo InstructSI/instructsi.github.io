@@ -88,4 +88,9 @@ Slovenian delegates to the Instruct-ERIC Council:
 Membership of the Republic of Slovenia in the Instruct-ERIC is financed by:
 - [Slovenian Research and Innovation Agency](https://www.arrs.si/en/)
 - [Ministry of Higher Education, Science and Innovation](https://www.gov.si/en/state-authorities/ministries/ministry-of-higher-education-science-and-innovation/) of the Republic of Slovenia
-eptember 24, 2024
+
+{% include gallery %}
+
+## Logo
+
+High-resolution logo of Instruct.SI can be downloaded via this [link]({{ site.url }}{{ site.baseurl }}/assets/images/logo/Instruct-ERIC_Slovenia.png) (PNG format, transparent background). Please use it on all materials related to Instruct.SI (co)-financed activities.
