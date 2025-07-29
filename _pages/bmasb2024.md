@@ -159,6 +159,7 @@ For any further information etc. please do not hesitate to contact us via e-mail
 ## Materials
 
 Abstracts of talks and relevant links to some online resources are available in the [**Book of Abstracts**]({{ site.url }}{{ site.baseurl }}/assets/docs/2024-bmasb2024-book_of_abstracts.pdf).
+Matic Test
 
 **Online storage for handouts and hands-on files**: [https://oblak.ki.si/index.php/s/DwTfcdoimtij0pE](https://oblak.ki.si/index.php/s/DwTfcdoimtij0pE) (password to access the files given at the workshop)
 {: .notice--warning}
