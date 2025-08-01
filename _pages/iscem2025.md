@@ -11,7 +11,7 @@ toc_sticky: true
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/bmasb2024/bmasb2024-intro.png
+  overlay_image: /assets/images/iscem2025/ApoF.png
   overlay_filter: 0.25 # same as adding a set level of opacity to a black background
 #  actions:
 #    - label: "Basic info and registration"
