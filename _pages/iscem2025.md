@@ -20,3 +20,4 @@ header:
 
 {% capture notice-text %}
 We are pleased to announce
+{% endcapture %}
