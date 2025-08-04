@@ -12,7 +12,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/iscem2025/ApoF.png
-  overlay_filter: 0.2 # same as adding a set level of opacity to a black background
+  overlay_filter: 0.1 # same as adding a set level of opacity to a black background
 #  actions:
 #    - label: "Basic info and registration"
 #      url: "/bmasb2024/#basic-info-and-registration"
@@ -29,3 +29,8 @@ header:
 **[Instruct.SI consortium](https://instruct-eric.si)** is kindly inviting to a four-day workshop "**Instruct.SI CryoEM Advanced Workshop 2025, Single Particle Analysis**" for scientists who wish to deepen their understanding of cryo-electron microscopy (cryo-EM).
 
 The workshop will be held **from 11<sup>th</sup> to 14<sup>th</sup> November 2025** at the **National Institute of Chemistry**, [Hajdrihova ulica 19, Ljubljana, Slovenia](https://www.openstreetmap.org/?mlat=46.042711&mlon=14.493613#map=19/46.042711/14.493613).
+
+
+**Registration deadline October 15, 2025**
+
+[Registration link](https://forms.gle/PH1qoqnZgxERL1gf9)
