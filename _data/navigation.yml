@@ -6,4 +6,6 @@ main:
     url: /infrastructure/
   - title: "Posts"
     url: /categories/
+  - title: "SPA2025"
+    url: /spa2025/
 
