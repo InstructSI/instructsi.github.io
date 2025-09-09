@@ -13,6 +13,9 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/bmasb2024/2024-11-06-bmasb-04.jpg
   overlay_filter: 0.25 # same as adding a set level of opacity to a black background
+  actions:
+  - label: "Upcoming events"
+    url: "/events/#upcoming-events"
 ---
 
 The Instruct.SI consortium is dedicated to **fostering collaboration and advancing knowledge in the field of integrative structural biology** through a diverse range of events, including workshops, conferences, and training opportunities. These gatherings bring together researchers, educators, and students to share expertise, explore cutting-edge methodologies, and build lasting scientific connections. Each event provides a platform not only for the **exchange of ideas**, but also for the **education of the next generation of scientists**. In this way, the consortium helps bridge the gap between research and training, while strengthening networks across disciplines and institutions. Through these activities, Instruct.SI continues to promote excellence, collaboration, and innovation in integrative structural biology.
