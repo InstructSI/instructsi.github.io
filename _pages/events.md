@@ -21,7 +21,7 @@ header:
 ### Workshops
 
 - [**Instruct.SI CryoEM Advanced Workshop 2025, Single Particle Analysis**](/spa2025/) – Advanced cryo-EM workshop designed to provide researchers with meaningful, hands-on experience with nearly the entire cryo-EM workflow - from EM grid preparation to 3D structure determination // **11<sup>th</sup> to 14<sup>th</sup> November 2025 at National Institute of Chemistry, Ljubljana, Slovenia** // organized by National Institute of Chemistry, supported by Instruct.SI
-- [**Rosetta workshop**](/events/rosetta_workshop_2025) – Workshop focused on applying PyRosetta and AI tools like RFdiffusion or ProteinMPNN to the design and engineering of proteins, organized one week before [European RosettaCon](https://instruct-eric.si/events/rosetta_con_2025/) in Ljubljana, Slovenia // organized by National Institute of Chemistry, supported by Instruct.SI and Rosetta Commons
+- [**Rosetta Workshop**](/events/rosetta_workshop_2025) – Workshop focused on applying PyRosetta and AI tools like RFdiffusion or ProteinMPNN to the design and engineering of proteins, organized one week before [European RosettaCon](https://instruct-eric.si/events/rosetta_con_2025/) // **14<sup>th</sup> to 18<sup>th</sup> October 2025 at National Institute of Chemistry, Ljubljana, Slovenia** // organized by National Institute of Chemistry, supported by Instruct.SI and Rosetta Commons
 
 ### Conferences
 
