@@ -22,6 +22,6 @@ Using the newly obtained knowledge, **we aim to implement the histopathological 
 
 The visit was funded by Instruct.SI to which Katarina Bačnik thanks for support.
 
-Bekavac, A., Beck, A., Dragičević, P., Dragun, Z., Maguire, I., Ivanković, D., Fiket, Ž., Gračan, R., & Hudina, S. (2022). Disturbance in invasion? Idiopathic necrotizing hepatopancreatitis in the signal crayfish Pacifastacus leniusculus (Dana, 1852) in Croatia. Journal of Fish Diseases, 45(2), 261–276. https://doi.org/10.1111/jfd.13552
+Bekavac, A., Beck, A., Dragičević, P., Dragun, Z., Maguire, I., Ivanković, D., Fiket, Ž., Gračan, R., & Hudina, S. (2022). **Disturbance in invasion? Idiopathic necrotizing hepatopancreatitis in the signal crayfish Pacifastacus leniusculus (Dana, 1852) in Croatia**. *Journal of Fish Diseases*, 45(2), 261–276. [https://doi.org/10.1111/jfd.13552](https://doi.org/10.1111/jfd.13552)
 
 {% include gallery caption="Photo credits: Katarina Bačnik (NIB)" %}
