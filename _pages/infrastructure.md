@@ -40,7 +40,7 @@ Researchers at four NIC departments work in the field of of life sciences and em
 - **X-ray crystallography**: temperature-controlled crystallization room, stereomicroscope, equipment for crystal freezing, cryo-storage and sending to synchrotron facilities
 - **SAXS**: in-house SAXS (SAXSpoint 5.0 System Anton Paar with Primux 100 micro X-ray source (Cu))
 - **protein preparation**: equipment for the recombinant protein production in bacteria, insect, yeast and mammalian cells, cell culture rooms/equipment, and chromatographic systems for protein purification
-- **protein analysis**: biochemical and biophysical characterization of biological samples (CD spectrometer, SPR, ITC, MST, various optical microscopes, plate readers)
+- **protein analysis**: biochemical and biophysical characterization of biological samples (CD spectrometer, SPR, ITC, MST, various optical microscopes, plate readers, mass photometer)
 - **single molecule imaging**: [LUMICKS C-Trap EDGE 350](https://www.ki.si/en/departments/d12-department-of-synthetic-biology-and-immunology/equipment/translate-to-english-lumicks-c-trap/) fluorescence TIRF microscope coupled to an optical tweezer and a microfluidics system
 
 NIC also has strong expertise in theoretical (computational) structural biology. NIC has state-the-art expertise in protein design and theoretical-computational biology.
@@ -63,7 +63,7 @@ Research in the field of structural biology is conducted at several member facul
 
 At UL FKKT, structural biology-related research is conducted primarily at Chair of Biochemistry and Chair of Physical Chemistry which host equipment for:
 - **protein production** at lab scale in bacteria, yeast, insect and mammalian cells (equipment for molecular cloning and cell cultivation), and ÄKTA chromatographic systems for protein purification
-- **protein characterization**: SEC-RALS/LALS, UV/Vis and fluorescence spectrometers, ITC, CD, nano-DSC
+- **protein characterization**: SEC-RALS/LALS, UV/Vis and fluorescence spectrometers, ITC, CD, nano-DSC, nanoDSF complemeted with DLS and SLS, mass photometer
 - **X-ray crystallography**: crystallization room with temperature-controlled chamber, pipetting robot Crystal Gryphon (Art Robbins Instruments), stereomicroscope (Zeiss), equipment for crystal freezing, cryo-storage and sending to synchrotron facilities
 - **computing**: computer cluster
 - **light microscopy**: confocal microscope Leica DMi8 / TCS SP8
