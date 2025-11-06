@@ -30,8 +30,6 @@ Below are listed [upcoming](/events/#upcoming-events) and [past events](/events/
 
 ### Meetings
 
-- [**4<sup>th</sup> European Rosetta Protein Design Conference**](https://europeanrosettacon.org/) ([our announcement](/events/rosetta_con_2025/)) – A gathering of the Rosetta modeling and protein design community, bringin together scientists from diverse fields—structural biology, computational modeling, bioengineering, and machine learning // **20<sup>th</sup> to 22<sup>nd</sup> October 2025 at Grand Hotel Union Eurostars, Ljubljana, Slovenia** // supported by Instruct.SI, Rosetta Commons and Slovenian Biochemical Society
-
 ## Past events
 
 ### Workshops
@@ -44,5 +42,6 @@ Below are listed [upcoming](/events/#upcoming-events) and [past events](/events/
 
 ### Meetings
 
+- [**4<sup>th</sup> European Rosetta Protein Design Conference**](https://europeanrosettacon.org/) ([our announcement](/events/rosetta_con_2025/)) – A gathering of the Rosetta modeling and protein design community, bringin together scientists from diverse fields—structural biology, computational modeling, bioengineering, and machine learning // **20<sup>th</sup> to 22<sup>nd</sup> October 2025 at Grand Hotel Union Eurostars, Ljubljana, Slovenia** // supported by Instruct.SI, Rosetta Commons and Slovenian Biochemical Society
 - [**Structural biology in Slovenia and beyond**](/events/mini-symposium-structural-biology-slovenia-14may24/) – A mini-symposium celebrating membership of Slovenia in Instruct-ERIC, featuring lectures of Instruct-ERIC representatives and 
 presentations of young Slovenian structural biologists (PhD students and early-career postdocs). // **14<sup>th</sup> May 2024 at National Institute of Chemistry, Ljubljana, Slovenia** // organized by Instruct.SI and Instruct-ERIC
