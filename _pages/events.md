@@ -26,14 +26,17 @@ Below are listed [upcoming](/events/#upcoming-events) and [past events](/events/
 
 ### Workshops
 
-- [**Instruct.SI CryoEM Advanced Workshop 2025, Single Particle Analysis**](/spa2025/) – Advanced cryo-EM workshop designed to provide researchers with meaningful, hands-on experience with nearly the entire cryo-EM workflow - from EM grid preparation to 3D structure determination // **11<sup>th</sup> to 14<sup>th</sup> November 2025 at National Institute of Chemistry, Ljubljana, Slovenia** // organized by National Institute of Chemistry, supported by Instruct.SI
+*Currently no workshops are planned in the near future. Please, come back later, and follow us on other communication channels.*
 
 ### Meetings
+
+*Currently no meetings are planned in the near future. Please, come back later, and follow us on other communication channels.*
 
 ## Past events
 
 ### Workshops
 
+- [**Instruct.SI CryoEM Advanced Workshop 2025, Single Particle Analysis**](/spa2025/) – Advanced cryo-EM workshop designed to provide researchers with meaningful, hands-on experience with nearly the entire cryo-EM workflow - from EM grid preparation to 3D structure determination // **11<sup>th</sup> to 14<sup>th</sup> November 2025 at National Institute of Chemistry, Ljubljana, Slovenia** // organized by National Institute of Chemistry, supported by Instruct.SI
 - [**Rosetta Workshop**](/events/rosetta_workshop_2025) – Workshop focused on applying PyRosetta and AI tools like RFdiffusion or ProteinMPNN to the design and engineering of proteins, organized one week before [European RosettaCon](https://instruct-eric.si/events/rosetta_con_2025/) // **14<sup>th</sup> to 18<sup>th</sup> October 2025 at National Institute of Chemistry, Ljubljana, Slovenia** // organized by National Institute of Chemistry, supported by Instruct.SI and Rosetta Commons
 - [**Nanobodies Workshop: Binder Recovery by In Silico and In Vitro Panning**](https://indico.ijs.si/event/2966/) ([our announcement](/events/nanobodies_workshop_2025/)) – An intensive workshop designed for PhD students who want to combine computational nanobody discovery with experimental panning workflows, including hands-on laboratory sessions, computational tutorials, and peer presentations. // **22<sup>th</sup> to 26<sup>th</sup> September 2025 at Laboratory for Environmental and Life Sciences at the University of Nova Gorica** // organized by University of Nova Gorica, supported by Instruct.SI and SMASH
 - [**GPCR Structure & Function**](/events/gpcr-structure-function-workshop-2024/) – On mechanism, structure, and interactions of G-protein-coupled receptors. // **10<sup>th</sup> December 2024 at Slovenian Academy of Sciences and Arts, Ljubljana, Slovenia** // organized as part of the Physiology Days 2024 by the Slovenian Academy of Sciences and Arts, Faculty of Medicine of the University of Ljubljana, Slovenian Physiological Society, supported by Instruct.SI
