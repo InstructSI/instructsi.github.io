@@ -22,19 +22,15 @@ The Instruct.SI consortium is dedicated to **fostering collaboration and advanci
 
 Below are listed [upcoming](/events/#upcoming-events) and [past events](/events/#past-events) organized by members of and with the support of Instruct.SI consortium.
 
----
-
 ## Upcoming events
 
 ### Workshops
 
-*No workshops are planned in the near future. Please, come back later, and follow us on other communication channels.*
+*No workshops are planned in the near future. Please, come back later.*
 
 ### Meetings
 
-*No meetings are planned in the near future. Please, come back later, and follow us on other communication channels.*
-
----
+*No meetings are planned in the near future. Please, come back later.*
 
 ## Past events
 
