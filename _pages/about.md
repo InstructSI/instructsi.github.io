@@ -51,6 +51,8 @@ Instruct.SI consortium is open to accept new members willing to actively partici
 
 The management board of the Instruct.SI consortium is composed of one main representative from each of the member institutions, plus one deputy member.
 
+Current board members:
+
 | Institution 	| Main representative 	| Deputy representative 	|
 |---	|---	|---	|
 | CIPKeBiP 	| Prof. Dr. **Nataša Poklar Ulrih**	| Assist. Prof. Dr. **Livija Tušar** 	|
@@ -59,7 +61,7 @@ The management board of the Instruct.SI consortium is composed of one main repre
 | NIB 	| Prof. Dr. **Maruša Pompe Novak** 	| Prof. Dr. **Kristina Gruden**  |
 | UL 	| Assoc. Prof. Dr. **Miha Pavšič** 	| Acad. Prof. Dr. **Robert Zorec** 	|
 | UM 	| Assoc. Prof. Dr. **Andraž Stožer** 	| Prof. Dr. **Zoran Ren** 	|
-| UNG 	| Prof. Dr. **Ario de Marco** 	| Dr. **Matteo De March** 	|
+| UNG 	| Prof. Dr. **Ario de Marco** 	| Dr. **Klara Kropivšek** 	|
 
 President of the management board: Assoc. Prof. Dr. **Miha Pavšič** (<a class="email-link" data-user="miha.pavsic" data-domain="fkkt.uni-lj.si">[email protected]</a>)
 
