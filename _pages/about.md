@@ -61,7 +61,7 @@ Current board members:
 | NIB 	| Prof. Dr. **Maruša Pompe Novak** 	| Prof. Dr. **Kristina Gruden**  |
 | UL 	| Assoc. Prof. Dr. **Miha Pavšič** 	| Acad. Prof. Dr. **Robert Zorec** 	|
 | UM 	| Assoc. Prof. Dr. **Andraž Stožer** 	| Prof. Dr. **Zoran Ren** 	|
-| UNG 	| Prof. Dr. **Ario de Marco** 	| Dr. **Klara Kropivšek** 	|
+| UNG 	| Prof. Dr. **Ario de Marco** 	| Dr. **Klara Kropivšek Brumat** 	|
 
 President of the management board: Assoc. Prof. Dr. **Miha Pavšič** (<a class="email-link" data-user="miha.pavsic" data-domain="fkkt.uni-lj.si">[email protected]</a>)
 
