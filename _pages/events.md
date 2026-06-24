@@ -26,11 +26,14 @@ Below are listed [upcoming](/events/#upcoming-events) and [past events](/events/
 
 ### Workshops
 
-*No workshops are planned in the near future. Please, come back later.*
+- ***De Novo* Protein Design for Beginners** // tentatively in **September 2026 at University of Ljubljana, Biotechnical Faculty, Ljubljana, Slovenia** // organized by University of Ljubljana, Biotechnical Faculty; supported by Instruct.SI
+- **Introduction to Phage Display Technology and Computational Methods for the Isolation of Binding Proteins** // **23<sup>th</sup> to 25<sup>th</sup> September 2026 at University of Nova Gorica, Nova Gorica, Slovenia** // organized by University of Nova Gorica; supported by Instruct.SI
+- **Cryo-EM Workshop, Single Particle Analysis** // **10<sup>th</sup> to 12<sup>th</sup> November 2026 at National Institute of Chemistry, Nova Gorica, Slovenia** // organized by National Institute of Chemistry; supported by Instruct.SI
+- **Biophysical Characterization of Proteins** // **2<sup>nd</sup> to 3<sup>rd</sup> December 2026 at University of Ljubljana, Faculty of Chamistry and Chemical Technology, Ljubljana, Slovenia** // organized by University of Ljubljana, Faculty of Chemistry and Chemical Technology; supported by Instruct.SI
 
 ### Meetings
 
-*No meetings are planned in the near future. Please, come back later.*
+- **Instruct.SI One-day Scientific Symposium** – A gathering of researchers in the field of integrative structural biology in Slovenia // **18<sup>th</sup> November 2026 at National Institute of Chemistry, Ljubljana, Slovenia** // supported by Instruct.SI
 
 ## Past events
 
