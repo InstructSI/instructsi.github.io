@@ -12,7 +12,7 @@ tags:
 The **University of Ljubljana, Biotechnical Faculty**, and **Instruct.SI** invite you to a hands-on workshop connecting experimental biochemistry and structural biology with modern computational methods for protein design.
 
 - *When?* **17–18 December 2026**  
-- *Where?* **Department of Biology, Biotechnical Faculty, University of Ljubljana** ([Večna pot 112, Ljubljana, Slovenia](https://www.openstreetmap.org/?mlat=46.051158&mlon=14.469895#map=17/46.051158/14.469890&layers=P))
+- *Where?* **Department of Biology, Biotechnical Faculty, University of Ljubljana** ([Večna pot 111, Ljubljana, Slovenia](https://www.openstreetmap.org/?mlat=46.051158&mlon=14.469895#map=17/46.051158/14.469890&layers=P))
 - *Until when I need to apply?* **Application deadline: 15 November 2026** via [**this online form**](https://tinyurl.com/2rhmh6br)
 
 Through practical exercises, you will explore modern software and deep learning tools and learn how to apply them in your own research projects.
