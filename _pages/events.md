@@ -32,7 +32,7 @@ Below are listed [upcoming](/events/#upcoming-events) and [past events](/events/
 
 ### Meetings
 
-- **Instruct.SI One-day Scientific Symposium** – A gathering of researchers in the field of integrative structural biology in Slovenia // **18<sup>th</sup> November 2026 at National Institute of Chemistry, Ljubljana, Slovenia** // supported by Instruct.SI
+- [**Instruct.SI One-day Scientific Symposium**[(/events/instructsi-scientific-meeting)] – A gathering of researchers in the field of integrative structural biology in Slovenia // **18<sup>th</sup> November 2026 at National Institute of Chemistry, Ljubljana, Slovenia** // supported by Instruct.SI
 
 ## Past events
 
