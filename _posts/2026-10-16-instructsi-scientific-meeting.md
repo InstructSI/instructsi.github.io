@@ -18,7 +18,7 @@ gallery:
     alt: "Slovenian Research And Innovation Agency"
     title: "Slovenian Research And Innovation Agency"
 ---
-*English version below*
+***English version below***
 
 ## **Strukturna biologija v Sloveniji - odprto srečanje konzorcija Instruct.SI**
 
@@ -46,6 +46,7 @@ gallery:
 |       13:30|Odmor|
 |       13:45|**Okrogla miza:** strukturna biologija v Sloveniji, delavnice, praksa, interes, infrastruktura, povezovanje, izkušnje uporabe ponudbe Instruct-ERIC, sodelovanje z drugimi infrastrukturami, diseminacija itd. (dobra praksa), sodelovanje pri projektih Horizon in ERC itd.|
 
+
 Zaradi lažje organizacije vas prosimo, da se **registrirate na tej [povezavi](https://docs.google.com/forms/d/e/1FAIpQLSfg2_9b-1-wZPp_mErUCsPintSiIu9Xij-Pw5FXkJFMC69LVw/viewform?usp=header) do 3. novembra 2026.**
 Udeležba je brezplačna.
 
@@ -56,13 +57,35 @@ Udeležba je brezplačna.
 ## Organizacija
 {% include gallery %}
 
-
+<br>
+<br>
 ## **Structural biology in Slovenia - Open meeting of the Instruct.SI consortium**
 
 [National Institute of Chemistry, Hajdrihova ulica 19, Ljubljana, Slovenia](https://www.openstreetmap.org/?mlat=46.042711&mlon=14.493613#map=19/46.042711/14.493613), November 18<sup>th</sup>, 2026, great lecture hall
 
 
 **We invite you to an open meeting of the Instruct.SI consortium, which brings together Slovenian research groups and institutions in the field of integrative structural biology.** As part of the leading European consortium in the field of structural biology, [Instruct-ERIC](https://instruct-eric.org), [Instruct.SI](https://instruct-eric.si) provides access to cutting-edge research infrastructure. The meeting is designed to facilitate networking among researchers, share expertise, and showcase opportunities for using specialized equipment both in Slovenia and across Europe. Join us and strengthen your involvement in the scientific community!
+
+|**Time**     |**Speakers**        |
+|----------:|------------- |
+|       9.00|Marjetka Podobnik - KI |
+|       9.15|Ajasja Ljubetič - KI |
+|       9.30|Matej Butala – UL BF |
+|       9.45|Coffe break |
+|       10.00|Tomaž Mark Zorec – UL MF |
+|       10.15|Jernej Imperl – UL FKKT |
+|       10:30|Jošt Hočevar – UL FKKT |
+|       10:45|Coffe break |
+|       11:00|Dušan Turk - CIPKeBIP |
+|       11:15|Marko Fonovič - IJS |
+|       11:30|Valentina Levak - NIB |
+|       11:45|Lunch-cold buffet |
+|       12:45|Marco Orlando - UNG |
+|       13:00|UM-1 |
+|       13:15|UM-2 |
+|       13:30|Coffe break |
+|       13:45|**Roundtable discussion**, structural biology in Slovenia, workshops, practical training, interest, infrastructure, networking, experiences with the Instruct-ERIC platform, collaboration with other infrastructures, dissemination, etc. (=good practice), participation in Horizon and ERC projects, etc. |
+
 
 To help us organize the event, please **register at this [link](https://docs.google.com/forms/d/e/1FAIpQLSfg2_9b-1-wZPp_mErUCsPintSiIu9Xij-Pw5FXkJFMC69LVw/viewform?usp=header) by November 3<sup>rd</sup>, 2026.** Participation is free.
 
