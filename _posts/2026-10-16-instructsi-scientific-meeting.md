@@ -81,8 +81,8 @@ Udeležba je brezplačna.
 |       11.30|Valentina Levak - NIB |
 |       11.45|Lunch-cold buffet |
 |       12.45|Marco Orlando - UNG |
-|       13.00|UM-1 to be announced|
-|       13.15|UM-2 to be announced|
+|       13.00|UM-1 to be announced |
+|       13.15|UM-2 to be announced |
 |       13.30|Coffe break |
 |       13.45|**Roundtable discussion**, structural biology in Slovenia, workshops, practical training, interest, infrastructure, networking, experiences with the Instruct-ERIC platform, collaboration with other infrastructures, dissemination, etc. (=good practice), participation in Horizon and ERC projects, etc. |
 
