@@ -10,7 +10,7 @@ last_modified_at: 2024-11-12
 toc_sticky: true
 hidden: true
 header:
-#  overlay_color: "#5e616c"
+  overlay_color: "#5e616c"
   overlay_image: /assets/images/bmasb2024/bmasb2024-intro.png
   overlay_filter: 0.25 # same as adding a set level of opacity to a black background
   actions:

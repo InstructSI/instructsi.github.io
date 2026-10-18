@@ -10,7 +10,7 @@ last_modified_at: 2026-10-16
 toc_sticky: true
 hidden: true
 header:
-  overlay_color: "#5e616c"
+#  overlay_color: "#5e616c"
   overlay_image: /assets/images/bioproc2026/bioproc2026-header.png
   overlay_filter: 0.5 # same as adding a set level of opacity to a black background
   actions:
