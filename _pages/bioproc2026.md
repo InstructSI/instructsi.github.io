@@ -56,7 +56,7 @@ The workshop will be held **from 2<sup>nd</sup> to 3<sup>rd</sup> December 2026*
 
 ## Preliminary programme
 
-Below is a preliminary workshop programme that is subject to adjustment with regard to number of samples for specific method.
+Below is a preliminary workshop programme that is **subject to adjustment with regard to number of samples for specific method**. *Final programme will be published when applications are closed and proposed samples/measurements are discussed.*
 
 **Day 1 (Wednesday, Dec 2)**:
 - 9:00–9:15: **Introduction**
