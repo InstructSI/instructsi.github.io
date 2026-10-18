@@ -48,7 +48,7 @@ We will use the following **equipment** during the workshop:
 
 ![Invitation Bioproc2026]({{ site.url }}{{ site.baseurl }}/assets/images/bioproc2026/bioproc2026-flyer.png)
 
-
+Invitation flyer is avabilable also as a ([PDF file]({{ site.url }}{{ site.baseurl }}/assets/docs/2026-bioproc2026-2026-10-16-flyer.pdf).
 
 ## Place and time
 
