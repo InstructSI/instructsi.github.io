@@ -57,6 +57,7 @@ The workshop will be held **from 2<sup>nd</sup> to 3<sup>rd</sup> December 2026*
 ## Preliminary programme
 
 Below is a preliminary workshop programme that is **subject to adjustment with regard to number of samples for specific method**. *Final programme will be published when applications are closed and proposed samples/measurements are discussed.*
+{: .notice--warning}
 
 **Day 1 (Wednesday, Dec 2)**:
 - 9:00–9:15: **Introduction**
@@ -87,6 +88,7 @@ Applicants will have the opportunity to briefly present their research, bring th
 Applicants are kindly asked to provide as detailed sample information as possible, and describe the goal of their measurements. This will be used to adjust the programme accordingly. **Participants who would like to perform hands-on measurements will be contacted by the organising team to discuss the samples and measurements.**
 
 **Due to hands-on nature of the workshop the maximum number of participants is limited to 10.** If we will receive more than 10 applications the selection will be done by the organising team and will be based on the data provided by applicants via application form.
+{: .notice--danger}
 
 Applicants will be informed on the status of their application after the aplication deadline.
 
