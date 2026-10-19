@@ -68,7 +68,7 @@ Below is a preliminary workshop programme that is **subject to adjustment with r
 - 13:30–14:30: *Lunch*
 - 14:30–16:30: **Measurements, data analysis**
 
-**Day 2 (Wednesday, Dec 3)**:
+**Day 2 (Thursday, Dec 3)**:
 - 9:00–11:00: **Theoretical background**
 - 11:00–11:30: *Coffee break*
 - 11:30–13:00: **Measurements, data analysis**
