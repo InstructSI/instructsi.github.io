@@ -28,13 +28,13 @@ gallery:
 
 |   **Čas**             |   **Program**        |
 |----------------------:|----------------------|
-|         9.00-9.20|Marjetka Podobnik - KI|
-|         9.20-9.40|Ajasja Ljubetič - KI|
-|        9.40-10.00|Matej Butala – UL BF|
+|       9.00-9.20|Marjetka Podobnik - KI|
+|       9.20-9.40|Ajasja Ljubetič - KI|
+|       9.40-10.00|Matej Butala - UL BF|
 |       10.00-10.15|Odmor-kava/čaj|
-|       10.15-10.35|Tomaž Mark Zorec – UL MF|
-|       10.35-10.55|Jernej Imperl – UL FKKT|
-|       10.55-11.15|Jošt Hočevar – UL FKKT|
+|       10.15-10.35|Tomaž Mark Zorec - UL MF|
+|       10.35-10.55|Jernej Imperl - UL FKKT|
+|       10.55-11.15|Jošt Hočevar - UL FKKT|
 |       11.15-11.30|Odmor-kava/čaj|
 |       11.30-11.50|Dušan Turk - CIPKeBIP|
 |       11.50-12.10|Marko Fonovič - IJS|
@@ -67,11 +67,11 @@ Udeležba je brezplačna.
 |----------:|------------- |
 |         9.00–9.20|Marjetka Podobnik - KI |
 |         9.20-9.40|Ajasja Ljubetič - KI |
-|        9.40-10.00|Matej Butala – UL BF |
+|        9.40-10.00|Matej Butala - UL BF |
 |       10.00-10.15|Coffe/tea break |
-|       10.15-10.35|Tomaž Mark Zorec – UL MF |
-|       10.35-10.55|Jernej Imperl – UL FKKT |
-|       10.55-11.15|Jošt Hočevar – UL FKKT |
+|       10.15-10.35|Tomaž Mark Zorec - UL MF |
+|       10.35-10.55|Jernej Imperl - UL FKKT |
+|       10.55-11.15|Jošt Hočevar - UL FKKT |
 |       11.15-11.30|Coffe/tea break |
 |       11.30-11.50|Dušan Turk - CIPKeBIP |
 |       11.50-12.10|Marko Fonovič - IJS |
