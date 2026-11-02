@@ -28,20 +28,20 @@ gallery:
 
 |   **Čas**             |   **Program**        |
 |----------------------:|----------------------|
-|9.00-9.20|Marjetka Podobnik - KI|
-|         9.20 – 9.40|Ajasja Ljubetič - KI|
-|        9.40 – 10.00|Matej Butala – UL BF|
-|       10.00 – 10.15|Odmor-kava/čaj|
-|       10.15 – 10.35|Tomaž Mark Zorec – UL MF|
-|       10.35 – 10.55|Jernej Imperl – UL FKKT|
-|       10.55 – 11.15|Jošt Hočevar – UL FKKT|
-|       11.15 – 11.30|Odmor-kava/čaj|
-|       11.30 – 11.50|Dušan Turk - CIPKeBIP|
-|       11.50 – 12.10|Marko Fonovič - IJS|
-|       12.10 – 12.30|Valentina Levak - NIB|
-|       12.30 – 13.30|Kosilo, hladni bife|
-|       13.30 – 13.50|Marco Orlando - UNG|
-|       13.50 – 14:35|**Okrogla miza:** strukturna biologija v Sloveniji, delavnice, praksa, interes, infrastruktura, povezovanje, izkušnje uporabe ponudbe Instruct-ERIC, sodelovanje z drugimi infrastrukturami, diseminacija itd. (dobra praksa), sodelovanje pri projektih Horizon in ERC itd.|
+|         9.00-9.20|Marjetka Podobnik - KI|
+|         9.20-9.40|Ajasja Ljubetič - KI|
+|        9.40-10.00|Matej Butala – UL BF|
+|       10.00-10.15|Odmor-kava/čaj|
+|       10.15-10.35|Tomaž Mark Zorec – UL MF|
+|       10.35-10.55|Jernej Imperl – UL FKKT|
+|       10.55-11.15|Jošt Hočevar – UL FKKT|
+|       11.15-11.30|Odmor-kava/čaj|
+|       11.30-11.50|Dušan Turk - CIPKeBIP|
+|       11.50-12.10|Marko Fonovič - IJS|
+|       12.10-12.30|Valentina Levak - NIB|
+|       12.30-13.30|Kosilo, hladni bife|
+|       13.30-13.50|Marco Orlando - UNG|
+|       13.50-14:35|**Okrogla miza:** strukturna biologija v Sloveniji, delavnice, praksa, interes, infrastruktura, povezovanje, izkušnje uporabe ponudbe Instruct-ERIC, sodelovanje z drugimi infrastrukturami, diseminacija itd. (dobra praksa), sodelovanje pri projektih Horizon in ERC itd.|
 
 Srečanje bo potekalo v angleškem jeziku.
 Zaradi lažje organizacije vas prosimo, da se **registrirate na tej [povezavi](https://docs.google.com/forms/d/e/1FAIpQLSfg2_9b-1-wZPp_mErUCsPintSiIu9Xij-Pw5FXkJFMC69LVw/viewform?usp=header) do 3. novembra 2026.**
@@ -65,23 +65,20 @@ Udeležba je brezplačna.
 
 |**Time**     |**Programme**        |
 |----------:|------------- |
-|       9.00–9.20|Marjetka Podobnik - KI |
-|       9.15|Ajasja Ljubetič - KI |
-|       9.30|Matej Butala – UL BF |
-|       9.45|Coffe break |
-|       10.00|Tomaž Mark Zorec – UL MF |
-|       10.15|Jernej Imperl – UL FKKT |
-|       10.30|Jošt Hočevar – UL FKKT |
-|       10.45|Coffe break |
-|       11.00|Dušan Turk - CIPKeBIP |
-|       11.15|David Jurnečka - IJS |
-|       11.30|Valentina Levak - NIB |
-|       11.45|Lunch-cold buffet |
-|       12.45|Marco Orlando - UNG |
-|       13.00|UM-1 - to be announced |
-|       13.15|UM-2 - to be announced |
-|       13.30|Coffe break |
-|       13.45|**Roundtable discussion**, structural biology in Slovenia, workshops, practical training, interest, infrastructure, networking, experiences with the Instruct-ERIC platform, collaboration with other infrastructures, dissemination, etc. (=good practice), participation in Horizon and ERC projects, etc. |
+|         9.00–9.20|Marjetka Podobnik - KI |
+|         9.20-9.40|Ajasja Ljubetič - KI |
+|        9.40-10.00|Matej Butala – UL BF |
+|       10.00-10.15|Coffe/tea break |
+|       10.15-10.35|Tomaž Mark Zorec – UL MF |
+|       10.35-10.55|Jernej Imperl – UL FKKT |
+|       10.55-11.15|Jošt Hočevar – UL FKKT |
+|       11.15-11.30|Coffe/tea break |
+|       11.30-11.50|Dušan Turk - CIPKeBIP |
+|       11.50-12.10|Marko Fonovič - IJS |
+|       12.10-12.30|Valentina Levak - NIB |
+|       12.30-13.30|Lunch-cold buffet |
+|       13.30-13.50|Marco Orlando - UNG |
+|       13.50-14.35|**Roundtable discussion**, structural biology in Slovenia, workshops, practical training, interest, infrastructure, networking, experiences with the Instruct-ERIC platform, collaboration with other infrastructures, dissemination, etc. (=good practice), participation in Horizon and ERC projects, etc. |
 
 The meeting will be held in English.
 To help us organize the event, please **register at this [link](https://docs.google.com/forms/d/e/1FAIpQLSfg2_9b-1-wZPp_mErUCsPintSiIu9Xij-Pw5FXkJFMC69LVw/viewform?usp=header) by November 3<sup>rd</sup>, 2026.** Participation is free.
