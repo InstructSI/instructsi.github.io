@@ -26,25 +26,22 @@ gallery:
 
 **Vabimo vas na odprto srečanje konzorcija Instruct.SI, ki povezuje slovenske raziskovalne skupine in institucije s področja integrativne strukturne biologije.** Kot del vodilnega evropskega konzorcija za strukturno biologijo, [Instruct-ERIC](https://instruct-eric.org), vam [Instruct.SI](https://instruct-eric.si) odpira vrata do vrhunske raziskovalne infrastrukture. Srečanje je namenjeno medsebojnemu mreženju raziskovalcev, širjenju strokovnega znanja ter predstavitvi možnosti uporabe specializirane opreme tako doma kot v Evropi. Pridružite se nam in okrepite svoje sodelovanje v znanstveni skupnosti!
 
-|**Čas**           |**Program**        |
-|-----------------:|-------------|
-|       9.00 - 9.20|Marjetka Podobnik - KI|
-|       9.20|Ajasja Ljubetič - KI|
-|       9.30|Matej Butala – UL BF|
-|       9.45|Odmor-kava/čaj|
-|       10.00|Tomaž Mark Zorec – UL MF|
-|       10.15|Jernej Imperl – UL FKKT|
-|       10.30|Jošt Hočevar – UL FKKT|
-|       10.45|Odmor-kava/čaj|
-|       11.00|Dušan Turk - CIPKeBIP|
-|       11.15|David Jurnečka - IJS|
-|       11.30|Valentina Levak - NIB|
-|       11.45|Kosilo, hladni bife|
-|       12.45|Marco Orlando - UNG|
-|       13.00|UM-1 - ime bo objavljeno naknadno|
-|       13.15|UM-2 - ime bo objavljeno naknadno|
-|       13.30|Odmor|
-|       13.45|**Okrogla miza:** strukturna biologija v Sloveniji, delavnice, praksa, interes, infrastruktura, povezovanje, izkušnje uporabe ponudbe Instruct-ERIC, sodelovanje z drugimi infrastrukturami, diseminacija itd. (dobra praksa), sodelovanje pri projektih Horizon in ERC itd.|
+|**Čas**             |**Program**        |
+|-------------------:|-------------------|
+|         9.00 – 9.20|Marjetka Podobnik - KI|
+|         9.20 – 9.40|Ajasja Ljubetič - KI|
+|        9.40 – 10.00|Matej Butala – UL BF|
+|       10.00 – 10.15|Odmor-kava/čaj|
+|       10.15 – 10.35|Tomaž Mark Zorec – UL MF|
+|       10.35 – 10.55|Jernej Imperl – UL FKKT|
+|       10.55 – 11.15|Jošt Hočevar – UL FKKT|
+|       11.15 – 11.30|Odmor-kava/čaj|
+|       11.30 – 11.50|Dušan Turk - CIPKeBIP|
+|       11.50 – 12.10|Marko Fonovič - IJS|
+|       12.10 – 12.30|Valentina Levak - NIB|
+|       12.30 – 13.30|Kosilo, hladni bife|
+|       13.30 – 13.50|Marco Orlando - UNG|
+|       13.50 – 14:35|**Okrogla miza:** strukturna biologija v Sloveniji, delavnice, praksa, interes, infrastruktura, povezovanje, izkušnje uporabe ponudbe Instruct-ERIC, sodelovanje z drugimi infrastrukturami, diseminacija itd. (dobra praksa), sodelovanje pri projektih Horizon in ERC itd.|
 
 Srečanje bo potekalo v angleškem jeziku.
 Zaradi lažje organizacije vas prosimo, da se **registrirate na tej [povezavi](https://docs.google.com/forms/d/e/1FAIpQLSfg2_9b-1-wZPp_mErUCsPintSiIu9Xij-Pw5FXkJFMC69LVw/viewform?usp=header) do 3. novembra 2026.**
