@@ -26,8 +26,8 @@ gallery:
 
 **Vabimo vas na odprto srečanje konzorcija Instruct.SI, ki povezuje slovenske raziskovalne skupine in institucije s področja integrativne strukturne biologije.** Kot del vodilnega evropskega konzorcija za strukturno biologijo, [Instruct-ERIC](https://instruct-eric.org), vam [Instruct.SI](https://instruct-eric.si) odpira vrata do vrhunske raziskovalne infrastrukture. Srečanje je namenjeno medsebojnemu mreženju raziskovalcev, širjenju strokovnega znanja ter predstavitvi možnosti uporabe specializirane opreme tako doma kot v Evropi. Pridružite se nam in okrepite svoje sodelovanje v znanstveni skupnosti!
 
-|**Čas**             |**Program**        |
-|-------------------:|-------------------|
+|   **Čas**             |   **Program**        |
+|----------------------:|----------------------|
 |         9.00 – 9.20|Marjetka Podobnik - KI|
 |         9.20 – 9.40|Ajasja Ljubetič - KI|
 |        9.40 – 10.00|Matej Butala – UL BF|
