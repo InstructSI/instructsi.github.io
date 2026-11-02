@@ -28,7 +28,7 @@ gallery:
 
 |   **Čas**             |   **Program**        |
 |----------------------:|----------------------|
-|         9.00 – 9.20|Marjetka Podobnik - KI|
+|9.00 – 9.20|Marjetka Podobnik - KI|
 |         9.20 – 9.40|Ajasja Ljubetič - KI|
 |        9.40 – 10.00|Matej Butala – UL BF|
 |       10.00 – 10.15|Odmor-kava/čaj|
