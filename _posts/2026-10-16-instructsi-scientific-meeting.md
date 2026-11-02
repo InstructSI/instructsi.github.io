@@ -22,14 +22,14 @@ gallery:
 
 ## **Strukturna biologija v Sloveniji - odprto srečanje konzorcija Instruct.SI**
 
-[**Kemijski inštitut**, Hajdrihova ulica 19, Ljubljana, Slovenija](https://www.openstreetmap.org/?mlat=46.042711&mlon=14.493613#map=19/46.042711/14.493613), 18. 11. 2026, velika predavalnica
+[**Kemijski inštitut**, Hajdrihova ulica 19, Ljubljana, Slovenija](https://www.openstreetmap.org/?mlat=46.042711&mlon=14.493613#map=19/46.042711/14.493613), 18. 11. 2026, Velika predavalnica
 
 **Vabimo vas na odprto srečanje konzorcija Instruct.SI, ki povezuje slovenske raziskovalne skupine in institucije s področja integrativne strukturne biologije.** Kot del vodilnega evropskega konzorcija za strukturno biologijo, [Instruct-ERIC](https://instruct-eric.org), vam [Instruct.SI](https://instruct-eric.si) odpira vrata do vrhunske raziskovalne infrastrukture. Srečanje je namenjeno medsebojnemu mreženju raziskovalcev, širjenju strokovnega znanja ter predstavitvi možnosti uporabe specializirane opreme tako doma kot v Evropi. Pridružite se nam in okrepite svoje sodelovanje v znanstveni skupnosti!
 
-|**Čas**     |**Program**        |
-|----------:|-------------|
-|       9.00|Marjetka Podobnik - KI|
-|       9.15|Ajasja Ljubetič - KI|
+|**Čas**           |**Program**        |
+|-----------------:|-------------|
+|       9.00 - 9.20|Marjetka Podobnik - KI|
+|       9.20|Ajasja Ljubetič - KI|
 |       9.30|Matej Butala – UL BF|
 |       9.45|Odmor-kava/čaj|
 |       10.00|Tomaž Mark Zorec – UL MF|
@@ -61,12 +61,12 @@ Udeležba je brezplačna.
 <br>
 ## **Structural biology in Slovenia - Open meeting of the Instruct.SI consortium**
 
-[**National Institute of Chemistry**, Hajdrihova ulica 19, Ljubljana, Slovenia](https://www.openstreetmap.org/?mlat=46.042711&mlon=14.493613#map=19/46.042711/14.493613), November 18<sup>th</sup>, 2026, great lecture hall
+[**National Institute of Chemistry**, Hajdrihova ulica 19, Ljubljana, Slovenia](https://www.openstreetmap.org/?mlat=46.042711&mlon=14.493613#map=19/46.042711/14.493613), 18 November 2026, Great lecture hall
 
 
 **We invite you to an open meeting of the Instruct.SI consortium, which brings together Slovenian research groups and institutions in the field of integrative structural biology.** As part of the leading European consortium in the field of structural biology, [Instruct-ERIC](https://instruct-eric.org), [Instruct.SI](https://instruct-eric.si) provides access to cutting-edge research infrastructure. The meeting is designed to facilitate networking among researchers, share expertise, and showcase opportunities for using specialized equipment both in Slovenia and across Europe. Join us and strengthen your involvement in the scientific community!
 
-|**Time**     |**Speakers**        |
+|**Time**     |**Programme**        |
 |----------:|------------- |
 |       9.00|Marjetka Podobnik - KI |
 |       9.15|Ajasja Ljubetič - KI |
