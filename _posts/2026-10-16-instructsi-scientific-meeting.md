@@ -37,7 +37,7 @@ gallery:
 |       10.55-11.15|Matej Butala - UL BF|
 |       11.15-11.30|Odmor-kava/čaj|
 |       11.30-11.50|Dušan Turk - CIPKeBIP|
-|       11.50-12.10|Marko Fonovič - IJS|
+|       11.50-12.10|David Jurnečka - IJS|
 |       12.10-12.30|Valentina Levak - NIB|
 |       12.30-13.30|Kosilo, hladni bife|
 |       13.30-13.50|Marco Orlando - UNG|
@@ -75,7 +75,7 @@ Udeležba je brezplačna.
 |       10.55-11.15|Matej Butala - UL BF |
 |       11.15-11.30|Coffe/tea break |
 |       11.30-11.50|Dušan Turk - CIPKeBIP |
-|       11.50-12.10|Marko Fonovič - IJS |
+|       11.50-12.10|David Jurnečka - IJS |
 |       12.10-12.30|Valentina Levak - NIB |
 |       12.30-13.30|Lunch-cold buffet |
 |       13.30-13.50|Marco Orlando - UNG |
