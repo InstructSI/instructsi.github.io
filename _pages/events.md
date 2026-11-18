@@ -31,7 +31,7 @@ Below are listed [upcoming](/events/#upcoming-events) and [past events](/events/
 
 ### Meetings
 
-- [**Instruct.SI One-day Scientific Symposium**](/events/instructsi-scientific-meeting) – A gathering of researchers in the field of integrative structural biology in Slovenia // **18<sup>th</sup> November 2026 at National Institute of Chemistry, Ljubljana, Slovenia** // supported by Instruct.SI
+- (no meetings planned in the near future)
 
 ## Past events
 
@@ -55,6 +55,10 @@ Below are listed [upcoming](/events/#upcoming-events) and [past events](/events/
 - [**Thyroid hormone cycle: biochemistry, structure, physiology, autoimmunity**](/events/thyroid-hormone-cycle-2024-workshop/) – Workshop with the aim to boost collaboration in thyroglobulin and thyroid hormone-related research. // **23<sup>rd</sup> October 2024 at Jožef Stefan Institute, Ljubljana, Slovenia** // organized by Jožef Stefan Institute, supported by Instruct.SI
 
 ### Meetings
+
+#### 2026
+
+- [**Instruct.SI One-day Scientific Symposium**](/events/instructsi-scientific-meeting) – A gathering of researchers in the field of integrative structural biology in Slovenia // **18<sup>th</sup> November 2026 at National Institute of Chemistry, Ljubljana, Slovenia** // supported by Instruct.SI
 
 #### 2025
 
