@@ -26,7 +26,6 @@ Below are listed [upcoming](/events/#upcoming-events) and [past events](/events/
 
 ### Workshops
 
-- [**Cryo-EM Workshop, Single Particle Analysis**](/spa2026) // **10<sup>th</sup> to 12<sup>th</sup> November 2026 at National Institute of Chemistry, Ljubljana, Slovenia** // organized by National Institute of Chemistry; supported by Instruct.SI
 - [**Biophysical Characterization of Proteins**](/bioproc2026) // **2<sup>nd</sup> to 3<sup>rd</sup> December 2026 at University of Ljubljana, Faculty of Chamistry and Chemical Technology, Ljubljana, Slovenia** // organized by University of Ljubljana, Faculty of Chemistry and Chemical Technology; supported by Instruct.SI
 - [***De Novo* Protein Design for Beginners**](/events/protein-design-workshop-2026) // **17<sup>th</sup> to 18<sup>th</sup> December 2026 at University of Ljubljana, Biotechnical Faculty, Ljubljana, Slovenia** // organized by University of Ljubljana, Biotechnical Faculty; supported by Instruct.SI
 
@@ -40,6 +39,7 @@ Below are listed [upcoming](/events/#upcoming-events) and [past events](/events/
 
 #### 2026
 
+- [**Cryo-EM Workshop, Single Particle Analysis**](/spa2026) // **10<sup>th</sup> to 12<sup>th</sup> November 2026 at National Institute of Chemistry, Ljubljana, Slovenia** // organized by National Institute of Chemistry; supported by Instruct.SI
 - [**Introduction to Phage Display Technology and Computational Methods for the Isolation of Binding Proteins**](https://instruct-eric.si/events/phage-display-technology-computational-meth-2026/)// **23<sup>th</sup> to 25<sup>th</sup> September 2026 at University of Nova Gorica, Nova Gorica, Slovenia** // organized by University of Nova Gorica; supported by Instruct.SI
 
 #### 2025
