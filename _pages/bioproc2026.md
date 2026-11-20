@@ -54,6 +54,15 @@ Invitation flyer is avabilable also as a [PDF file]({{ site.url }}{{ site.baseur
 
 The workshop will be held **from 2<sup>nd</sup> to 3<sup>rd</sup> December 2026** at the Chairs of **Biochemistry** & **Physical Chemistry** at the **Faculty of Chemistry and Chemical Technology, University of Ljubljana**, [Večna pot 113, Ljubljana, Slovenia](https://osm.org/go/0Ik11rVJs?layers=P&m=).
 
+## Team
+
+- Assoc. Prof. Miha Pavšič
+- Assoc. Prof. San Hadži
+- Assist. Ana Obaha
+- Assist. Jošt Hočevar
+- Assist. Milena Stojkovska Docevska
+- Assist. Uroš Zavrtanik
+
 ## Preliminary programme
 
 Below is a preliminary workshop programme that is **subject to adjustment with regard to number of samples for specific method**. *Final programme will be published when applications are closed and proposed samples/measurements are discussed.*
