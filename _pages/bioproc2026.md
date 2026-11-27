@@ -14,8 +14,8 @@ header:
   overlay_image: /assets/images/bioproc2026/bioproc2026-header.png
   overlay_filter: 0.2 # same as adding a set level of opacity to a black background
   actions:
-    - label: "Program"
-      url: "/bioproc2026/#program"
+    - label: "Schedule"
+      url: "/bioproc2026/#schedule"
 gallery:
   - url: https://www.fkkt.uni-lj.si
     image_path: /assets/images/logo/ul-fkkt-logo-en-tsp-bd-1200x541.png
@@ -63,7 +63,7 @@ The workshop will be held **from 2<sup>nd</sup> to 3<sup>rd</sup> December 2026*
 - Assist. Milena Stojkovska Docevska
 - Assist. Uroš Zavrtanik
 
-## Program
+## Schedule
 
 **Day 1 (Wednesday, Dec 2)**:
 - 9:00: **Welcome** *(seminar room at Chair of Biochemistry)*
@@ -86,7 +86,7 @@ The workshop will be held **from 2<sup>nd</sup> to 3<sup>rd</sup> December 2026*
 
 Participants will receive coupons for lunch at the Marijanca canteen.
 
-Please note that the programme may change depending on technical and practical requirements.
+Please note that the schedule may change depending on technical and practical requirements.
 {: .notice--warning}
 
 ## Audience
