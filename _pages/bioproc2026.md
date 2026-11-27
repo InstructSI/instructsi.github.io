@@ -14,8 +14,8 @@ header:
   overlay_image: /assets/images/bioproc2026/bioproc2026-header.png
   overlay_filter: 0.2 # same as adding a set level of opacity to a black background
   actions:
-    - label: "Registration"
-      url: "/bioproc2026/#registration"
+    - label: "Program"
+      url: "/bioproc2026/#program"
 gallery:
   - url: https://www.fkkt.uni-lj.si
     image_path: /assets/images/logo/ul-fkkt-logo-en-tsp-bd-1200x541.png
@@ -96,6 +96,9 @@ The workshop is primarily intended for doctoral students, early-career postdocto
 Applicants will have the opportunity to briefly present their research, bring their own samples, perform the measurements and analyze the data (see below for more info on this).
 
 ##  Registration
+
+REGISTRATIONS ARE CLOSED!
+{: .notice--danger}
 
 **Please register by 1<sup>st</sup> November 2026 via [this link](https://forms.cloud.microsoft/e/aBbisSdAqy).**
 
