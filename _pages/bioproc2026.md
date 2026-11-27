@@ -63,10 +63,7 @@ The workshop will be held **from 2<sup>nd</sup> to 3<sup>rd</sup> December 2026*
 - Assist. Milena Stojkovska Docevska
 - Assist. Uroš Zavrtanik
 
-## Preliminary programme
-
-Below is a preliminary workshop programme that is **subject to adjustment with regard to number of samples for specific method**. *Final programme will be published when applications are closed and proposed samples/measurements are discussed.*
-{: .notice--warning}
+## Program
 
 **Day 1 (Wednesday, Dec 2)**:
 - 9:00: **Welcome** *(seminar room at Chair of Biochemistry)*
@@ -84,6 +81,9 @@ Below is a preliminary workshop programme that is **subject to adjustment with r
 - 11:45: **CD *(theory)*** *(seminar room at Chair of Biochemistry)*
 - 12:30: *Lunch*
 - 13:30: **Measurements (MP, CD)**
+
+Please note that the programme may change depending on technical and practical requirements.
+{: .notice--warning}
 
 ## Audience
 
