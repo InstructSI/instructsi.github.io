@@ -69,20 +69,21 @@ Below is a preliminary workshop programme that is **subject to adjustment with r
 {: .notice--warning}
 
 **Day 1 (Wednesday, Dec 2)**:
-- 9:00–9:15: **Introduction**
-- 9.15–10.00: **Short presentations by participants**
-- 10:00–11:30: **Theoretical background**
-- 11:30–12:00: *Coffee break*
-- 12:00–13:30: **Measurements**
-- 13:30–14:30: *Lunch*
-- 14:30–16:30: **Measurements, data analysis**
+- 9:00: **Welcome** *(seminar room at Chair of Biochemistry)*
+- 9:05: **Short presentations by participants** *(seminar room at Chair of Biochemistry)*
+- 10:00: *Coffee break*
+- 10:15: **ITC *(theory)*** *(seminar room at Chair of Biochemistry)*
+- 11:00: **nanoDSF+DLS *(theory)*** *(seminar room at Chair of Biochemistry)*
+- 12:00: *Lunch*
+- 13:00: **Measurements (ITC, nanoDSF)**
 
 **Day 2 (Thursday, Dec 3)**:
-- 9:00–11:00: **Theoretical background**
-- 11:00–11:30: *Coffee break*
-- 11:30–13:00: **Measurements, data analysis**
-- 13:00–14:00: *Lunch*
-- 14:00–16:00: **Measurements, data analysis & wrap-up**
+- 9:00: **Interpretation of measured data** (& setup of additional measurements if neccessary)
+- 10:45: *Coffee break*
+- 11:00: **Mass photometry *(theory)*** *(seminar room at Chair of Biochemistry)*
+- 11:45: **CD *(theory)*** *(seminar room at Chair of Biochemistry)*
+- 12:30: *Lunch*
+- 13:30: **Measurements (MP, CD)**
 
 ## Audience
 
