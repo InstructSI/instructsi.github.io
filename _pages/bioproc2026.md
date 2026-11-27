@@ -68,19 +68,23 @@ The workshop will be held **from 2<sup>nd</sup> to 3<sup>rd</sup> December 2026*
 **Day 1 (Wednesday, Dec 2)**:
 - 9:00: **Welcome** *(seminar room at Chair of Biochemistry)*
 - 9:05: **Short presentations by participants** *(seminar room at Chair of Biochemistry)*
-- 10:00: *Coffee break*
+- 10:00: *Coffee break* *(seminar room at Chair of Biochemistry)*
 - 10:15: **ITC *(theory)*** *(seminar room at Chair of Biochemistry)*
 - 11:00: **nanoDSF+DLS *(theory)*** *(seminar room at Chair of Biochemistry)*
-- 12:00: *Lunch*
-- 13:00: **Measurements (ITC, nanoDSF)**
+- 12:00: *Lunch break* *(Marijanca canteen)*
+- 13:00: **Measurements (ITC, nanoDSF)** *(Chair of Physical Chemistry (ITC), *Chair of Biochemistry (nanoDSF))*
 
 **Day 2 (Thursday, Dec 3)**:
 - 9:00: **Interpretation of measured data** (& setup of additional measurements if neccessary)
-- 10:45: *Coffee break*
+- 10:45: *Coffee break* *(seminar room at Chair of Biochemistry)*
 - 11:00: **Mass photometry *(theory)*** *(seminar room at Chair of Biochemistry)*
 - 11:45: **CD *(theory)*** *(seminar room at Chair of Biochemistry)*
-- 12:30: *Lunch*
-- 13:30: **Measurements (MP, CD)**
+- 12:30: *Lunch break* *(Marijanca canteen)*
+- 13:30: **Measurements (MP, CD)** *(Chair of Biochemistry (nanoDSF), Chair of Physical Chemistry (CD))*
+
+*The seminar room at the Chair of Biochemistry is located at the 2nd floor of UL FKKT. To arrive there enter the main "glass" building, take the stairs t the 1st level and continue via the bridge to enter UL FKKT. Take the wooden stairs to reach 2nd level. The seminar room is on the left after exiting the stairs.*
+
+Participants will receive coupons for lunch at the Marijanca canteen.
 
 Please note that the programme may change depending on technical and practical requirements.
 {: .notice--warning}
